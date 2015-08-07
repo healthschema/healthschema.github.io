@@ -1,0 +1,28 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               HealthSchema.org 
+tagline:             schema.org for Healthcare
+url:                 http://healthschema.org
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Rafael Richards
+  email:             rmrich5@gmail.com
+
+# Custom vars
+github:
+  repo:              https://github.com/healthschema/healthschema.github.io
