@@ -1,1 +1,1 @@
-Dummy
+Web site for healthschema.org
