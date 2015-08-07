@@ -7,4 +7,5 @@ To write blogs:
 * in the base directory, run __jekyll server --watch__
 * go to __localhost:4000__ in your browser to see the site
 * to add or edit posts, change or add to the dated entries in the _posts directory
+* see public site at _https://healthschema.github.io/_
 
