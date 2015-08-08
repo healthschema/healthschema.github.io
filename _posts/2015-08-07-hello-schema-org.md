@@ -11,13 +11,13 @@ Everything on the Internet begins with Search.
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
-**Google Know**.  Today Google provides smarter, 'semantic' search (where the meaning and intent of the search is understood, leading to specific useful actions on the data) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
+**Google Know**.  Today Google provides smarter search (i.e. semantic search - where the meaning and intent of the search is understood, leading to specific useful actions on the data).  To accomplish this, the Internet search giants (Google, Yahoo, Microsoft,...) all adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information content on the Internet.  
 
-Over a trillion web searches each year now flow through Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
+Over a trillion web searches each year now flow through Schema.org to provide precise, meaningful results directly to the information resource intended, and to provide machine-processable data on the web, allowing actions such as automated airline and hotel bookings, automated reminders of appointments.  By providing meaning (semantics) to structured data on the web, Schema.org moves us closer to the next generation Internet:  the Internet of Data.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
-But what about Healthcare data? Why is it so hard to share across the Internet?  Unlike the above approach of using a single universally accessible schema to support structured data across the Internet, **health data remains hidden and locked behind  tens of thousands of unique proprietary schemas of each source system** making health data unsharable, unqueryable, and unusable.
+But what about Healthcare data? Unlike the above approach of using an exposed universally web-accessible schema to support structured data across the Internet, **health data remains hidden and locked behind  tens of thousands of unique proprietary schemas of each source system** making health data unsharable, unqueryable, and unusable.
 
 
 The Healthcare Data Standards Industry
