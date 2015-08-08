@@ -16,11 +16,9 @@ Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, bot
 What about Healthcare data?
 -----
 
-Health data remains locked behind  **tens of thousands of unique proprietary schemes** of each source health information system.  
+Health data remains locked behind  *tens of thousands of unique proprietary schemes* of each source health information system.  
 
-Layered on top of this are hundreds of "healthcare-data-is-special" schemes and vocabularies.  Hundreds of standards are released by different organizations with different missions, different goals,  on different schedules, with different formats, with different models, with different licenses, with different payment schemes,  behind locked down websites, with ambigous and conflicting defintions.  And did I mention, different and incompatible schemes?
-
-**Is healthcare data categorically different from any other kind of data?**
+*Is healthcare data categorically different from any other kind of data?*
 
 
 HealthSchema.org
@@ -39,23 +37,21 @@ More to come soon.
 
 
 
-#References:  GitHub use
-
+#GitHub
 configure:
-* git config --local --list
-* git config user.name "userName"
-* git config user.email "userEmail"
-
+git config --local --list
+git config user.name "userName"
+git config user.email "userEmail"
 
 update:
-* git add 2015-08-07-hello-schema-org.md
-* git commit -m "intro schema.org update"
-* git push
+git add 2015-08-07-hello-schema-org.md
+git commit -m "intro schema.org update"
+git push
 
 
 
-#References for Github Markdown:
-* [Jekyll] (http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
+#Github Markdown:
+* [Jekyll](http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
 
 * [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
@@ -64,7 +60,6 @@ update:
 
 
 
-#Headers
 # H1
 ## H2
 ### H3
