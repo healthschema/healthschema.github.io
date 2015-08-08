@@ -19,7 +19,6 @@ Layered on top of this are hundreds of "healthcare-data-is-special" schemes and 
 
 **Is healthcare data categorically different from any other kind of data?**
 
------
 
 #HealthSchema.org
 
@@ -27,7 +26,6 @@ On healthschema.org, we think heath data should an equal citizen as the rest of 
 
 
 
------
 #Stay tuned...
 
 
@@ -35,7 +33,7 @@ On healthschema.org, we think heath data should an equal citizen as the rest of 
 
 
 
------
+
 #References:  updating text
 
 configure:
