@@ -20,8 +20,6 @@ Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, bot
 
 But what about Healthcare data?
 
-----
-
 **Health data remains locked behind the tens of thousands of unique proprietary schemes, from each source health information system. **
 
 
@@ -86,6 +84,18 @@ update:
 git add 2015-08-07-hello-schema-org.md
 git commit -m "intro schema.org update"
 git push
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #Github Markdown:
