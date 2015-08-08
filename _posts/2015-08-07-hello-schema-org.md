@@ -18,12 +18,11 @@ Over a trillion web searches each year now flow through Schema.org to provide ex
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).But what about Healthcare data? 
 
 
+Contrast the above approach of using a single universally accessible world-wide web schema to support structured data across the Internet with healthcare. **Health data remains locked behind  tens of thousands of unique proprietary schemas** making health data unsharable, unqueryable, and unusable. Why is this the case?  Don't healthcare standards solve this problem?
+
 
 The Healthcare Data Standards Industry
 -----
-
-**Health data remains locked behind the tens of thousands of unique proprietary schemes, making it unsharable, unqueryable, and unusable.**    What about health data interoperability standards? Don't they solve the problem?
-
 
 **Health Data Standards is a Business, not a Solution**
 
