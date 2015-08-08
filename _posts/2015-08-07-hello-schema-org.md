@@ -13,18 +13,17 @@ Everything on the Internet starts with Search.
 
 **Google Know**. To support next generation of smart, semantic search (where the meaning and intent of the search is understood) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
 
-Over a trillion web searches each year now leverage Schema.org to provide the exact meaningful results for information intended. In its role providing 'meaning' to structured data on the web, and provding content producers with machine-actionable data, Schema.org is the most powerful driver of the next generation Internet - the Internet of Data.
-
-
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
 
-But what about Healthcare data?
+Over a trillion web searches each year now leverage Schema.org to provide the exact meaningful results for information intended. In its role providing 'meaning' to structured data on the web, and provding content producers with machine-actionable data, Schema.org is the most powerful driver of the next generation Internet - the Internet of Data.
+
+But what about Healthcare data? 
+-----
 
 **Health data remains locked behind the tens of thousands of unique proprietary schemes, from each source health information system. **
 
 
-What about health data interoperability standards? Don't they solve the problem? 
-
+What about health data interoperability standards? Don't they solve the problem?
 
 **First**, healthcare data standards are designed by committees of "special experts"  behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. This process not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).   As a result these vocabularies and models bloat out of control with esoterica and incomprehensible complexity.  This assures the central role and job security of "the experts"  in continued management of these standards.
 
