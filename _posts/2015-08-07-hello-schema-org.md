@@ -1,32 +1,40 @@
 ---
 layout: post
-title: Schema.org Introduction
+title: HealthSchema.org Introduction
 ---
 
 
 Schema.org
 -----
 
-Everything on the Internet starts with Search. Searching the Internet used to be based on satistical page ranks and keyword matches, with no notion what any of the keywords mean.  This generated hundreds of thousands of results per search - or "Google Guess"  - with no understanding of the meaning or intent of the search.
+Everything on the Internet starts with Search. 
 
-The Internet search giants (Google, Bing, Yahoo,...) now use to a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a clear, unambigous structure and definition for information on the Internet.   This enables "Google Know" and exact, meaningful answers to questions.
+A Google search used to be based on satistical page ranks and keyword matches, and generated hundreds of thousands of results per search. Google had no understanding of what was actually meant or intent of the search. This was Google Guess.  It was up to the individual to sift through these results for the one intended. 
+
+Today, Google and other large knowledge organizations use knowlegebases (based on everything in Wikipedia, and much more) and  know what real world things entities are.
+
+To support the next generation of Internet search, all the Internet search giants adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.
 
 Over a trillion web searches each year now leverage Schema.org's schema, providing exact, meaningful results for information requested.  In this role providing meaning to data on the web, Schema.org is the most frequently linked data resource.
 
-Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
+Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
 
 
-What about Healthcare data?
+But what about Healthcare data?
+
+
 ----
 Health data remains locked behind the *tens of thousands of unique proprietary schemes* of each source health information system.   
 
 What about interoperability standards? Doesn't that solve the problem?
 
-Healthcare data standards are designed by committees of experts behind closed doors rather than by the patients or physicians who actually need this information.  Each health standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize the standard to assure organizational sustainability.
+Healthcare data standards are designed by committees of experts behind closed doors (aka "Wizards")  rather than by the patients or physicians who actually need this information.  
 
-Some of these organizations have been in sustainment mode for over three decades - predating the existence of personal computers, let alone the Internet and its vastly distributed, dynamic information network.  
+Each health standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.
 
-Each healthcare data standards is its own silo, with
+Some of these organizations have been in sustainment mode for over three decades - predating the existence of Internet and its vastly distributed, dynamic information network.  
+
+Each healthcare data standard is its own silo, with
 
 * different release schedules  (weekly, monthly, quarterly, annually, or once a decade)
 * different and proprietary formats (dating over 25 years old)
@@ -37,24 +45,27 @@ Each healthcare data standards is its own silo, with
 
 And not to mention, fundamentally different and incompatible schemes?
 
-Health IT product vendors support this state of incoherent, complex, and inconsistent health IT standards because it gives them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!".Contractors, Systems Integrators, and  Consultants similarly love this current state of affairs: limitless integration contracts. 
+Health IT product vendors support this state of incoherent and inconsistent health IT standards because it provides them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!". 
 
-In summary, the state of healthcare data standards **is** the problem.  
+Meanwhile, the HIT system vendors, Systems Integrators, and  Consultants all love this status quo too, since it provides a never-ending supply of complex data integration contracts. 
+
+
+**The state of healthcare data standards **is** the problem. **
 
 This begs the question: Is healthcare data categorically different from any other kind of data?
+
 
 
 
 HealthSchema.org
 -----
 
-**Healthcare data is not special.**
+Heath data should be simple. It needs designed for use by normal people, like patients. 
 
-A recipe can be represented in the same data structures as a medication list. 
+**Healthcare data is not special.**  It does not require special containers and formats.  If we can represent a recipe structure on the Internet, we can also  represent a medication list.
 
-On healthschema.org, we think heath data should be simple, and designed for use directly by normal people, like patients.
+On healthschema.org, we think health data shoud be first class citizen on the free. open, world-wide information infrastructure that we call the Internet.
 
-Health data shoud be first class citizen on the world-wide information infrastructure that we call the Internet.
 
 
 
