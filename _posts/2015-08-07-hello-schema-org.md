@@ -17,10 +17,12 @@ Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, bot
 
 Over a trillion web searches each year now flow through Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
 
+
 But what about Healthcare data? 
 -----
 
-**Health data remains locked behind the tens of thousands of unique proprietary schemes, from each source health information system. **
+
+**Health data remains locked behind the tens of thousands of unique proprietary schemes, from each source health information system.**
 
 
 What about health data interoperability standards? Don't they solve the problem?
