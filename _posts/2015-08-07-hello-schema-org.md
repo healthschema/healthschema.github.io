@@ -49,7 +49,6 @@ git commit -m "intro schema.org update"
 git push
 
 
-
 #Github Markdown:
 
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
@@ -57,26 +56,12 @@ git push
 
 
 
-#H1
-text
-##H2
-text
-###H3
-text
-####H4
-text
-######H5
-text
-######H6
-text
+#Headings
 
-
-Alternately...unerline style
-
-Alt-H1
+Double-underlined heading
 ======
 
-Alt-H2
+Single-underlined heading
 ------
 
 
