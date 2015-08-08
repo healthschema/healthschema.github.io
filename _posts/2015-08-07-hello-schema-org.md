@@ -7,7 +7,7 @@ title: Schema.org Intro
 Introduction to Schema.org
 -----
 
-Everything on the Internet starts with Search. 
+Everything on the Internet begins with Search. 
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
