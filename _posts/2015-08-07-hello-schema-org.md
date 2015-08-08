@@ -9,7 +9,7 @@ Schema.org
 
 Everything on the Internet starts with Search. 
 
-**Google Guess**. A Google search used to be based on satistical page ranks and keyword matches, and generated hundreds of thousands of results per search. Google had no understanding of the intent of the search,  that each individual search term had meaning, nor how to filter meaningful recommendations.  It was up to the individual to sift through the results.
+**Google Guess**. A Google search used to be based on satistical page ranks and keyword matches, and generating hundreds of thousands of results per search. Google had no understanding of the intent of the search, the meaning of the search terms, nor the meaning of the statistically generated list of results.  It was up to the individual to sift through the results.
 
 **Google Know**. To support next generation of smart, semantic search (where the meaning and intent of the search is understood) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
 
