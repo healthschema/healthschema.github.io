@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing schema.org
+title: Schema.org Introduction
 ---
 
-On healthschema.org, we make pie and eat it and walk our dogs too.
+On healthschema.org, the quick brown fox jumps over the lazy dogs.
 
 -----
 
