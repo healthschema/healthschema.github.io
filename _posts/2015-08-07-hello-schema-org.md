@@ -34,8 +34,6 @@ More to come soon.
 
 
 
-
-
 #References:  GitHub use
 
 configure:
@@ -52,10 +50,12 @@ git push
 
 
 #References for Github Markdown:
-http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://guides.github.com/features/mastering-markdown/
-https://help.github.com/articles/writing-on-github/
+[Jekyll] (http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
+
+[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[mastering markdown](https://guides.github.com/features/mastering-markdown/)
+[writing on github](https://help.github.com/articles/writing-on-github/)
+
 
 
 
