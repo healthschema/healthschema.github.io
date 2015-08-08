@@ -22,17 +22,16 @@ But what about Healthcare data?
 -----
 
 
-**Health data remains locked behind the tens of thousands of unique proprietary schemes, from each source health information system.**
+**Health data remains locked behind the tens of thousands of unique proprietary schemes, making it unsharable, unqueryable, and unusable.**    What about health data interoperability standards? Don't they solve the problem?
 
 
-What about health data interoperability standards? Don't they solve the problem?
+**The Health Data Standards "Industry" today**
 
 **First**, healthcare data standards are designed by committees of "special experts"  behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. This process not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).   As a result these vocabularies and models bloat out of control with esoterica and incomprehensible complexity.  This assures the central role and job security of "the experts"  in continued management of these standards.
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
 
 **Third**, many of these organizations have been in sustainment mode for over three decades.  In information science timescales, these organizations are dinsaurs, predating the existence of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for information.  Information is not controlled by "special" people and organizations anymore!
-
 
 **Fourth**, each healthcare data standard is its own silo, with
 
@@ -45,12 +44,10 @@ What about health data interoperability standards? Don't they solve the problem?
 
 And of course, fundamentally different and incompatible schemes.
 
-
-**The persistence of legacy healthcare data standards - repackaged as something new and shiny - is the fundamental problem.**  Health IT product vendors support this state of legacy health IT standards because it provides top cover to claim "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending supply of complex, expensive data integration contracts. There is nothing new in the current iteration of shiny packaging of legacy tools. 
+**The persistence of legacy healthcare data standards (repackaged as something new) remains a fundamental problem.**  Health IT product vendors support this state of legacy health IT standards because it provides top cover to claim "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending supply of complex, expensive data integration contracts. There is nothing new in the current iteration of shiny packaging of legacy tools. 
 
 
 This begs the question: Is healthcare data categorically different from any other kind of data? What is special about it?
-
 
 
 HealthSchema.org
