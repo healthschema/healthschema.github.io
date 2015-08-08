@@ -15,7 +15,7 @@ Everything on the Internet starts with Search.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
 
-Over a trillion web searches each year leverage Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, and is the most powerful driver of the next generation Internet - the Internet of Data.
+Over a trillion web searches each year leverage Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
 
 But what about Healthcare data? 
 -----
