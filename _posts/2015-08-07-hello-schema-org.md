@@ -3,30 +3,36 @@ layout: post
 title: Schema.org Introduction
 ---
 
-The world wide web search giants all use a single, common, free, open, and universally accessible schema [schema.org](http://schema.org/) to provide a common structure and definition for information on the web.  
+#Introduction to Schema.org
+The world wide web search engines (Google, Bing, Yahoo,...) all use a single, common, free, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a common structure and definition for information on the web and across all search engines.
 
-Over a trillion web searches each year use Schema.org to provide users precise, meaningful results and support machine-processable actions on all this data.
+Over a trillion web searches each year link to and leverage Schema.org to provide precise, meaningful web search results.  In this regard, Schema.org is the most 'linked-to' resource on the Internet today.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
 
 
-*But what about Healthcare data?*
+#But what about Healthcare data?
 
-It all remains locked behind tens of thousands of unique proprietary schemes of each source health information system.  
+Health data remains locked behind  **tens of thousands of unique proprietary schemes** of each source health information system.  
 
-Layered on top of this are the "healthcare-data-is-special" standards.  These are released on different schedules, with different formats, with different models, with different licenses, with different payment schemes,  behind locked down websites, with ambigous and conflicting defintions.  And did I mention, hundreds of different and incompatible schemes?
+Layered on top of this are hundreds of "healthcare-data-is-special" schemes and vocabularies.  Hundreds of standards are released by different organizations with different missions, different goals,  on different schedules, with different formats, with different models, with different licenses, with different payment schemes,  behind locked down websites, with ambigous and conflicting defintions.  And did I mention, different and incompatible schemes?
+
+**Is healthcare data categorically different from any other kind of data?**
+
+-----
+
+#HealthSchema.org
+
+On healthschema.org, we think heath data should an equal citizen as the rest of the data in the world, and join on the evolution to the Internet of structured data.
 
 
 
 -----
-
-Does it need to be this complicated?
-
-On healthschema.org, we think heath data too should an equal citizen and join on the internet of structured data.
+#Stay tuned...
 
 
------
-Stay tuned...
+
+
 
 
 -----
