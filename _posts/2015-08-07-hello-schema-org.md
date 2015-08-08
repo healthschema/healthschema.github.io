@@ -3,17 +3,18 @@ layout: post
 title: Schema.org Introduction
 ---
 
-The world's internet search engines (Google, Yahoo, and Microsoft, ...)  rely on a single common [schema.org](http://schema.org/) to provide the structure and definition for all information searched and processed on the web.
+All internet search engines (Google, Yahoo, Microsoft,...) use a common schema [schema.org](http://schema.org/) to provide the common structure and definition for all information searched and processed on the web today.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
 
-But what about Healthcare?  
+But what about Healthcare data?  
 
-It remains silo'd in "healthcare-data-is-oh-so-special" silos.
+It remains locked behind tens of thousands of proprietary schemes and hundreds of incompatible, complex, closed, proprietary "healthcare-data-is-special" standards.
+
 -----
 
 
-On healthschema.org, heath data can also become an equal citizen on the internet of structured data.
+On healthschema.org, we think heath data too should an equal citizen and join on the internet of structured data.
 
 
 -----
