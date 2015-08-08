@@ -16,43 +16,51 @@ Over a trillion web searches each year use Schema.org's definitions to provide s
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
 
 
+
 What about Healthcare data?
 ----
 Health data remains locked behind the *tens of thousands of unique proprietary schemes* of each source health information system.   
 
-But don't using healthcare data standards solve this problem?
-The current state of healthcare data standards **is** the problem!
+What about interoperability standards? Doesn't that solve the problem?
 
-Healthcare data standards are *designed by committee*  by "experts" behind closed doors rather than by the patients or physicians who actually need this information.  
+Healthcare data standards are designed by committees of experts behind closed doors rather than by the patients or physicians who actually need this information.  Each health standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize the standard to assure organizational sustainability.
 
-Each health standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize the standard to assure organizational sustainability.  Some of these organizations have been in sustainment mode for three decades - predating the existence of personal computers, let alone the Internet and its vastly distributed, dynamic information network.  In short, these health standards organizations are persisting legacy approaches to data management.  
+Some of these organizations have been in sustainment mode for over three decades - predating the existence of personal computers, let alone the Internet and its vastly distributed, dynamic information network.  
 
-Health IT product vendors embrace this status quo because it gives them the top cover to keep their data in their proprietary silos.  "We use HIT standard X, therefore we are interoperable."
+Health IT product vendors embrace this status quo of health standards because it gives them an excuse to keep their data locked in their proprietary silos:  "We use HIT standard X... therefore we must be interoperable!"
 
-The truth is that each healthcare data standards each has:
+The fact is that each healthcare data standards is its own silo, based on:
 * different release schedules  (weekly, monthly, quarterly, annually, or once a decade)
 * different and proprietary formats (dating over 25 years old)
-* different and proprietary licenses (none of them freely usable)
+* different and proprietary licenses (none of them freely usable or creative commmons)
 * different and proprietary models
 * different payment models
 * different, ambigous and conflicting defintions.  
 
 And did I mention, different and incompatible schemes?
 
-This begs the question:  Is healthcare data categorically different from any other kind of data?
+The state of healthcare data standards **is** the problem!
+
+This begs the question:  
+Is healthcare data categorically different from any other kind of data?
+
 
 
 HealthSchema.org
 -----
 
-On healthschema.org, we think heath data should an equal citizen as the rest of the data in the world, and join on the evolution to the Internet of structured data.
+Healthcare data is not special.
+
+On healthschema.org, we think heath data should be simple, and designed for use directly by normal people, like patients.
+
+In other words, it shoud be first class citizen on the world-wide infrastructure of the Internet of Data.
+
 
 
 
 Stay tuned...
 -----
 
-More to come soon.
 
 
 
