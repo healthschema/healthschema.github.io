@@ -43,7 +43,7 @@ The Healthcare Data Standards Industry
 
 And of course, fundamentally different and incompatible schemes.
 
-**The persistence of legacy healthcare data standards (repackaged as something new) remains a fundamental problem.**  Health IT product vendors support this state of legacy health IT standards because it provides top cover to claim "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending supply of complex, expensive data integration contracts. There is nothing new in the current iteration of shiny packaging of legacy tools. 
+**The persistence of legacy healthcare data standards remains a fundamental problem.**  Health IT product vendors support this state of legacy health IT standards because it provides top cover to claim "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending supply of complex, expensive data integration contracts. There is nothing new in the current iteration of shiny packaging of legacy tools. 
 
 
 **This begs the question: Is healthcare data categorically different from any other kind of data?**
