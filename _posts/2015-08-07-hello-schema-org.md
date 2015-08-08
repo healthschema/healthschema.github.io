@@ -4,7 +4,7 @@ title: Schema.org Intro
 ---
 
 
-Schema.org
+Introduction to Schema.org
 -----
 
 Everything on the Internet starts with Search. 
@@ -19,22 +19,21 @@ Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, bot
 
 
 
-Healthcare Data Standards: An Industry, Not a Solution
+The Healthcare Data Standards Industry
 -----
 
 **Health data remains locked behind the tens of thousands of unique proprietary schemes, making it unsharable, unqueryable, and unusable.**    What about health data interoperability standards? Don't they solve the problem?
 
 
-**The Health Data Standards "Industry" today**
+**Health Data Standards is an Industry, Not a Solution**
 
-**First**, healthcare data standards are designed by committees of "special experts"  behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. This process not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).   As a result these vocabularies and models bloat out of control with esoterica and incomprehensible complexity.  This assures the central role and job security of "the experts"  in continued management of these standards.
+**First**, healthcare data standards are designed by committees of special experts behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. The process or creating standards is not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to special interests.  This assures the central role and job security of "the experts"  in continued management of these standards.
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
 
-**Third**, many of these organizations have been in sustainment mode for over three decades.  In information science timescales, these organizations are dinsaurs, predating the existence of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for information.  Information is not controlled by "special" people and organizations anymore!
+**Third**, many of these organizations have been in sustainment mode for over three decades.  In information science timescales, their standards are dinsaurs, predating the existence of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for information.  Information is not controlled by "special" people and organizations anymore. Everyone has a voice on the Internet now. 
 
 **Fourth**, each healthcare data standard is its own silo, with
-
 * different release schedules  (weekly, monthly, quarterly, annually, or once a decade)
 * different and proprietary formats (dating over 25 years old)
 * different and proprietary licenses (none of them freely usable or creative commmons)
@@ -47,7 +46,7 @@ And of course, fundamentally different and incompatible schemes.
 **The persistence of legacy healthcare data standards (repackaged as something new) remains a fundamental problem.**  Health IT product vendors support this state of legacy health IT standards because it provides top cover to claim "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending supply of complex, expensive data integration contracts. There is nothing new in the current iteration of shiny packaging of legacy tools. 
 
 
-This begs the question: Is healthcare data categorically different from any other kind of data? What is special about it?
+**This begs the question: Is healthcare data categorically different from any other kind of data?**
 
 
 HealthSchema.org
