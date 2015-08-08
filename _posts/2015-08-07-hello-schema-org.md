@@ -51,23 +51,27 @@ git push
 
 
 #Github Markdown:
-* [Jekyll](http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
 
-* [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * [writing on github](https://help.github.com/articles/writing-on-github/)
 
 
 
+#H1
+text
+##H2
+text
+###H3
+text
+####H4
+text
+######H5
+text
+######H6
+text
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+Alternately...unerline style
 
 Alt-H1
 ======
