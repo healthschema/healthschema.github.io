@@ -40,12 +40,13 @@ git config user.email "userEmail"
 
 update:
 git add 2015-08-07-hello-schema-org.md
-git commit -m "my first blog commit"
+git commit -m "intro schema.org update"
 git push
 
 
 
 #References for Github Markdown:
+http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://guides.github.com/features/mastering-markdown/
 https://help.github.com/articles/writing-on-github/
