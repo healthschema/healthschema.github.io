@@ -11,11 +11,11 @@ Everything on the Internet starts with Search.
 
 **Google Guess**. A Google search used to be based on satistical page ranks and keyword matches, and generating hundreds of thousands of results per search. Google had no understanding of the intent of the search, the meaning of the search terms, nor the meaning of the statistically generated list of results.  It was up to the individual to sift through the results.
 
-**Google Know**. To support next generation of smart, semantic search (where the meaning and intent of the search is understood) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
+**Google Know**. To support next generation of smart, actionable, semantic search (where the meaning and intent of the search is understood, leading to specific useful actions on the data) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
 
-Over a trillion web searches each year leverage Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
+Over a trillion web searches each year now flow through Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
 
 But what about Healthcare data? 
 -----
