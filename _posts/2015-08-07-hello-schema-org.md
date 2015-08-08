@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HealthSchema.org Introduction
+title: HealthSchema.org Intro
 ---
 
 
@@ -9,13 +9,9 @@ Schema.org
 
 Everything on the Internet starts with Search. 
 
-A Google search used to be based on satistical page ranks and keyword matches, and generated hundreds of thousands of results per search. Google had no understanding of what was actually meant or intent of the search. This was Google Guess.  It was up to the individual to sift through these results for the one intended. 
+**Google Guess**. A Google search used to be based on satistical page ranks and keyword matches, and generated hundreds of thousands of results per search. Google had no understanding of what was actually meant or intent of the search. It was up to the individual to sift through these results for the one intended. 
 
-Today, Google and other large knowledge organizations use knowlegebases (based on everything in Wikipedia, and much more) and  know what real world things entities are.
-
-To support the next generation of Internet search, all the Internet search giants adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.
-
-Over a trillion web searches each year now leverage Schema.org's schema, providing exact, meaningful results for information requested.  In this role providing meaning to data on the web, Schema.org is the most frequently linked data resource.
+**Google Know**. Today, Google and other large knowledge organizations use knowlegebases (based on everything in Wikipedia, and much more) and knows what real world  entities are, and how they are related to each other. To support the next generation of Internet search, the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  Over a trillion web searches each year now leverage Schema.org's schema, providing exact, meaningful results for information requested.  In this role providing meaning to data on the web, Schema.org is the most frequently linked data resource.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
 
