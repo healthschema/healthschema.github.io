@@ -48,21 +48,21 @@ And not to mention, fundamentally different and incompatible schemes?
 Health IT product vendors support this state of incoherent and inconsistent health IT standards because it provides them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!".  The HIT system vendors, Systems Integrators, and  Consultants also fully support the status quo, since it provides a never-ending supply of complex data integration contracts. 
 
 
-**The state of healthcare data standards **is** the problem. **
+**The incoherent state of healthcare data standards is the problem. **   This begs the question: Is healthcare data categorically different from any other kind of data? What is special about it?
 
-This begs the question: Is healthcare data categorically different from any other kind of data?
 
+
+**Healthcare data is not special.**  It does not require special containers and formats.  It must be available for management by normal people, like patients.  If we can represent a recipe structure on the Internet, we can also represent a medication list. Heath data management must be simple. 
 
 
 
 HealthSchema.org
 -----
 
-Heath data should be simple. It needs designed for use by normal people, like patients. 
 
-**Healthcare data is not special.**  It does not require special containers and formats.  If we can represent a recipe structure on the Internet, we can also  represent a medication list.
+On healthschema.org, we think health data shoud be first class citizen on the open, world-wide information infrastructure that we call the Internet.
 
-On healthschema.org, we think health data shoud be first class citizen on the free. open, world-wide information infrastructure that we call the Internet.
+
 
 
 
