@@ -3,22 +3,38 @@ layout: post
 title: Schema.org Introduction
 ---
 
+
 Schema.org
-=====
+-----
+The Internet search giants (Google, Bing, Yahoo,...) all use to a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a common structure and definition for information representation and search on the Internet.
 
-The world wide web search engines (Google, Bing, Yahoo,...) all use a single, common, free, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a common structure and definition for information on the web and across all search engines.
-
-Annually over a trillion web searches link to and leverage Schema.org to provide precise, meaningful search results.  Schema.org is the most 'linked-to' resource on the Internet today.
+Each year over a trillion web searches leverage Schema.org's schema to provide billions of web users precise, meaningful query results.  In this role in providing meaning to data on the web, Schema.org is likely the most frequently linked resource on the Internet today.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
 
 
 What about Healthcare data?
------
+----
+Health data remains locked behind the *tens of thousands of unique proprietary schemes* of each source health information system.   
 
-Health data remains locked behind  *tens of thousands of unique proprietary schemes* of each source health information system.  
+But don't using healthcare data standards solve this problem?
+The current state of healthcare data standards **is** the problem!
 
-*Is healthcare data categorically different from any other kind of data?*
+Healthcare data standards are "designed by committee" behind closed doors rather than by the patients or physicians on the front lines who actually use this information.  Each health standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize the standard to assure organizational growth.
+The incentive is therefore to make the standard as large, complex, and difficult to understand as possible to maintain their market, maximize jobs for consultants. Health IT product vendors embrace this status quo because it gives them the top cover of an excuse: "We use HIT standards, therefore we are interoperable."
+
+The sad truth is that each healthcare data standard is released on 
+* different schedules  (weekly, monthly, quarterly, annually, or once a decade)
+* different and proprietary formats
+* different and proprietary licenses (none of them freely usable as creative commons)
+* different models
+* different licenses
+* different payment models
+* ambigous and conflicting defintions.  
+
+And did I mention, different and incompatible schemes?
+
+This begs the question:  Is healthcare data categorically different from any other kind of data?
 
 
 HealthSchema.org
@@ -28,11 +44,12 @@ On healthschema.org, we think heath data should an equal citizen as the rest of 
 
 
 
-
 Stay tuned...
 -----
 
 More to come soon.
+
+
 
 
 
@@ -53,6 +70,26 @@ git push
 
 * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * [writing on github](https://help.github.com/articles/writing-on-github/)
+
+
+
+Headers:
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+
+Emphasis:
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
+
+
+Lists:
 
 
 
