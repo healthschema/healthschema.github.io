@@ -15,10 +15,9 @@ Everything on the Internet starts with Search.
 
 Over a trillion web searches each year now flow through Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
 
-Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).But what about Healthcare data? 
+Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
-
-Contrast the above approach of using a single universally accessible world-wide web schema to support structured data across the Internet with healthcare. **Health data remains locked behind  tens of thousands of unique proprietary schemas** making health data unsharable, unqueryable, and unusable. Why is this the case?  Don't healthcare standards solve this problem?
+But what about Healthcare data? Why is it so hard to share across the Internet?  Unlike the above approach of using a single universally accessible schema to support structured data across the Internet, **health data remains hidden and locked behind  tens of thousands of unique proprietary schemas of each source system** making health data unsharable, unqueryable, and unusable.
 
 
 The Healthcare Data Standards Industry
