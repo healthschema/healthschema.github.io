@@ -25,7 +25,7 @@ The Healthcare Data Standards Industry
 **Health data remains locked behind the tens of thousands of unique proprietary schemes, making it unsharable, unqueryable, and unusable.**    What about health data interoperability standards? Don't they solve the problem?
 
 
-**Health Data Standards is an Industry, Not a Solution**
+**Health Data Standards is a Business, not a Solution**
 
 **First**, healthcare data standards are designed by committees of special experts behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. The process or creating standards is not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to special interests.  This assures the central role and job security of "the experts"  in continued management of these standards.
 
@@ -56,7 +56,6 @@ HealthSchema.org
 
 
 On healthschema.org, we think health data shoud be first class citizen on the open, world-wide information infrastructure that we call the Internet.
-
 
 
 Stay tuned...
