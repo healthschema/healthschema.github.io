@@ -3,7 +3,9 @@ layout: post
 title: Schema.org Introduction
 ---
 
-###Schema.org
+Schema.org
+=====
+
 The world wide web search engines (Google, Bing, Yahoo,...) all use a single, common, free, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a common structure and definition for information on the web and across all search engines.
 
 Annually over a trillion web searches link to and leverage Schema.org to provide precise, meaningful search results.  Schema.org is the most 'linked-to' resource on the Internet today.
@@ -11,7 +13,8 @@ Annually over a trillion web searches link to and leverage Schema.org to provide
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
 
 
-###What about Healthcare data?
+What about Healthcare data?
+-----
 
 Health data remains locked behind  **tens of thousands of unique proprietary schemes** of each source health information system.  
 
@@ -20,41 +23,43 @@ Layered on top of this are hundreds of "healthcare-data-is-special" schemes and 
 **Is healthcare data categorically different from any other kind of data?**
 
 
-###HealthSchema.org
+HealthSchema.org
+-----
 
 On healthschema.org, we think heath data should an equal citizen as the rest of the data in the world, and join on the evolution to the Internet of structured data.
 
 
 
 
-###Stay tuned...
-
+Stay tuned...
+-----
 
 More to come soon.
+
 
 
 
 #References:  GitHub use
 
 configure:
-git config --local --list
-git config user.name "userName"
-git config user.email "userEmail"
+* git config --local --list
+* git config user.name "userName"
+* git config user.email "userEmail"
 
 
 update:
-git add 2015-08-07-hello-schema-org.md
-git commit -m "intro schema.org update"
-git push
+* git add 2015-08-07-hello-schema-org.md
+* git commit -m "intro schema.org update"
+* git push
 
 
 
 #References for Github Markdown:
-[Jekyll] (http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
+* [Jekyll] (http://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/)
 
-[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[mastering markdown](https://guides.github.com/features/mastering-markdown/)
-[writing on github](https://help.github.com/articles/writing-on-github/)
+* [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* [writing on github](https://help.github.com/articles/writing-on-github/)
 
 
 
