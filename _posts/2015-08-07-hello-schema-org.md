@@ -13,14 +13,14 @@ Everything on the Internet starts with Search.
 
 **Google Know**. To support next generation of smart, actionable, semantic search (where the meaning and intent of the search is understood, leading to specific useful actions on the data) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
 
-Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
-
 Over a trillion web searches each year now flow through Schema.org to provide exact, meaningful results directly to the information intended. In its role providing meaning (semantics) to structured data on the web, Schema.org provides content managers with machine-actionable data, moving us closer to the next generation Internet - the Internet of Data.
 
+Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).But what about Healthcare data? 
 
-But what about Healthcare data? 
+
+
+Healthcare Data Standards: An Industry, Not a Solution
 -----
-
 
 **Health data remains locked behind the tens of thousands of unique proprietary schemes, making it unsharable, unqueryable, and unusable.**    What about health data interoperability standards? Don't they solve the problem?
 
