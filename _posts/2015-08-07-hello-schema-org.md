@@ -27,13 +27,14 @@ Health data remains locked behind the *tens of thousands of unique proprietary s
 
 What about interoperability standards? Doesn't that solve the problem?
 
-Healthcare data standards are designed by committees of experts behind closed doors (aka "Wizards")  rather than by the patients or physicians who actually need this information.  
+First, healthcare data standards are designed by committees of experts behind closed doors ("the Wizards")  rather than by the millions of consumers of this data - doctors and patients. 
 
-Each health standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.
+Second, each health data standards organization has different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
 
-Some of these organizations have been in sustainment mode for over three decades - predating the existence of Internet and its vastly distributed, dynamic information network.  
+Third, many of these organizations have been in sustainment mode for over three decades.  In information science timescales, these organizations are dinsaurs, predating the existence and adoption of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for information.  Information is not controlled by "special" people and organizations anymore.
 
-Each healthcare data standard is its own silo, with
+
+Fourth, each healthcare data standard is its own silo, with
 
 * different release schedules  (weekly, monthly, quarterly, annually, or once a decade)
 * different and proprietary formats (dating over 25 years old)
@@ -44,9 +45,7 @@ Each healthcare data standard is its own silo, with
 
 And not to mention, fundamentally different and incompatible schemes?
 
-Health IT product vendors support this state of incoherent and inconsistent health IT standards because it provides them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!". 
-
-Meanwhile, the HIT system vendors, Systems Integrators, and  Consultants all love this status quo too, since it provides a never-ending supply of complex data integration contracts. 
+Health IT product vendors support this state of incoherent and inconsistent health IT standards because it provides them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!".  The HIT system vendors, Systems Integrators, and  Consultants also fully support the status quo, since it provides a never-ending supply of complex data integration contracts. 
 
 
 **The state of healthcare data standards **is** the problem. **
