@@ -7,14 +7,13 @@ title: Schema.org Introduction
 Schema.org
 -----
 
-Everything on the Internet starts with Search. Searching the Internet used to be based on satistical ranks and keyword matching, not semantics.  Schema.org changes this.
+Everything on the Internet starts with Search. Searching the Internet used to be based on satistical page ranks and keyword matches, with no notion what any of the keywords mean.  This generated hundreds of thousands of results per search - or "Google Guess"  - with no understanding of the meaning or intent of the search.
 
-The Internet search giants (Google, Bing, Yahoo,...) now use to a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a clear, unambigous structure and definition for information on the Internet.
+The Internet search giants (Google, Bing, Yahoo,...) now use to a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide a clear, unambigous structure and definition for information on the Internet.   This enables "Google Know" and exact, meaningful answers to questions.
 
-Over a trillion web searches each year use Schema.org's definitions to provide search to billions of web users, providing exact results for what was intended. In this role providing meaning to data on the web, Schema.org is the most frequently linked data resource.
+Over a trillion web searches each year now leverage Schema.org's schema, providing exact, meaningful results for information requested.  In this role providing meaning to data on the web, Schema.org is the most frequently linked data resource.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant). 
-
 
 
 What about Healthcare data?
@@ -27,9 +26,8 @@ Healthcare data standards are designed by committees of experts behind closed do
 
 Some of these organizations have been in sustainment mode for over three decades - predating the existence of personal computers, let alone the Internet and its vastly distributed, dynamic information network.  
 
-Health IT product vendors embrace this status quo of health standards because it gives them an excuse to keep their data locked in their proprietary silos:  "We use HIT standard X... therefore we must be interoperable!"
+Each healthcare data standards is its own silo, with
 
-The fact is that each healthcare data standards is its own silo, based on:
 * different release schedules  (weekly, monthly, quarterly, annually, or once a decade)
 * different and proprietary formats (dating over 25 years old)
 * different and proprietary licenses (none of them freely usable or creative commmons)
@@ -37,23 +35,26 @@ The fact is that each healthcare data standards is its own silo, based on:
 * different payment models
 * different, ambigous and conflicting defintions.  
 
-And did I mention, different and incompatible schemes?
+And not to mention, fundamentally different and incompatible schemes?
 
-The state of healthcare data standards **is** the problem!
+Health IT product vendors support this state of incoherent, complex, and inconsistent health IT standards because it gives them the top cover to keep their data silo'd, while giving lip service to "We use HIT standard XYZ... therefore we must be interoperable!".Contractors, Systems Integrators, and  Consultants similarly love this current state of affairs: limitless integration contracts. 
 
-This begs the question:  
-Is healthcare data categorically different from any other kind of data?
+In summary, the state of healthcare data standards **is** the problem.  
+
+This begs the question: Is healthcare data categorically different from any other kind of data?
 
 
 
 HealthSchema.org
 -----
 
-Healthcare data is not special.
+**Healthcare data is not special.**
+
+A recipe can be represented in the same data structures as a medication list. 
 
 On healthschema.org, we think heath data should be simple, and designed for use directly by normal people, like patients.
 
-In other words, it shoud be first class citizen on the world-wide infrastructure of the Internet of Data.
+Health data shoud be first class citizen on the world-wide information infrastructure that we call the Internet.
 
 
 
@@ -63,11 +64,6 @@ Stay tuned...
 
 
 
-
-
-
-
-#GitHub
 configure:
 git config --local --list
 git config user.name "userName"
@@ -99,10 +95,6 @@ _This will also be italic_
 __This will also be bold__
 
 *You **can** combine them*
-
-
-
-Lists:
 
 
 
