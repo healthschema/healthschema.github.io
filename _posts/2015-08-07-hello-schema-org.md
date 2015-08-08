@@ -13,7 +13,7 @@ Everything on the Internet starts with Search.
 
 **Google Know**. To support next generation of smart, semantic search (where the meaning and intent of the search is understood) the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information on the Internet.  
 
-Over a trillion web searches each year now leverage Schema.org's schema, providing exact, meaningful results for information requested.  In its role providing meaning to data on the web, Schema.org is the most likely the most linked data resource on the Internet.
+Over a trillion web searches each year now leverage Schema.org to provide the exact meaningful results for information intended. In its role providing 'meaning' to structured data on the web, and provding content producers with machine-actionable data, Schema.org is the most powerful driver of the next generation Internet - the Internet of Data.
 
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics ...) and concrete (restaurant).   
