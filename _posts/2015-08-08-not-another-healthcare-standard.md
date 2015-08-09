@@ -56,19 +56,12 @@ Healthcare Data is Not Special
 -----
 
 
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br>
-
 <p align="center">
-<img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="300px" height="250px" />
-<img src="https://d1hekt5vpuuw9b.cloudfront.net/assets/article/fe274ef18e93e75562dc05fe87b18316_are-you-taking-too-much-medicine-580x326_featuredImage.jpg" width="300px" height="250px" />
+<img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="250px" height="200px" />
+<img src="https://d1hekt5vpuuw9b.cloudfront.net/assets/article/fe274ef18e93e75562dc05fe87b18316_are-you-taking-too-much-medicine-580x326_featuredImage.jpg" width="2500px" height="250px" />
 </p>
 
   
-
 
 
 **Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to, the patients, in a form they can consume with their normal Internet-enabled devices.  
