@@ -22,18 +22,18 @@ Health data standards development is a contact sport for and by the players, not
 
 **Fourth**, each healthcare data standard is its own silo, with
 
-* different schedules for release  (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
-* different formats (dating over 25 years old)
-* different licenses (none of them freely usable or creative commmons)
-* different data models
-* different payment schemes (preventing access without paying for use)
-* different, ambigous and conflicting defintions.
-* different granularity (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards;  rather it will require laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings which are all highly subjective and error prone, with no means of automated checking for consistency).
+* different **release schedules**  (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
+* different **formats** (dating over 25 years old)
+* different **licenses** (none of them freely usable or creative commmons)
+* different **data models**
+* different **paywalls** (preventing access without paying for use)
+* different, ambigous and conflicting **defintions**.
+* different **granularity** (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards;  rather it will require laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings which are all highly subjective and error prone, with no means of automated checking for consistency. There is **no automation** capability in this situation.  It will forever be an expensive, laborious task).
 
 
-**Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the whim of the implementers.
+**Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the local needs of the customer.
 
-**Sixth**,because these standards are so inconsistent with each other, the standards organizations feel compelled to spend most of their time attempting to "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
+**Sixth**,because these standards are so inconsistent with each other, the standards organizations are compelled to spend a large fraction of their time attempting to continuously "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
 
 This makes for a self-perpetuating cycle of work for all standards organizations, while making no actual forward progress. While it may feel satisfying to work on one collaborative effort after another with each other, the net effect for end users of these standards is nil. The effort spent on alignment *rather than consolidation and simplification*  is a classic example of standards bloat.
 
