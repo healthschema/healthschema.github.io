@@ -17,8 +17,7 @@ Today a trillion web searches each year leverage Schema.org to provide precise, 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
 
-Inline-style: 
-![alt text](http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg "Logo Title Text 1")
+Structured Data: ![alt text](http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg "Structured Data Search Optimization")
 
 
 
