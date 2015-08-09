@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Schema.org Intro
+title: Schema.org:  A Model for Health Data too
 ---
 
 
 Introduction to Schema.org
 -----
 
-Everything on the Internet begins with Search. 
+The Internet is the largest data resource known to man, and is capable of storing 2^128, or 10^38 bytes of data.  For reference, the largest Big Data datbases are only petabyte scale (10^15 bytes), making the Internet 10^20 orders of magnitue larger.  So how do we find things on the Internet?
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
-**Google Know**.  Today Google provides smarter search (i.e. semantic search - where the meaning and intent of the search is understood, leading to specific useful actions on the data).  To accomplish this, the Internet search giants (Google, Yahoo, Microsoft,...) all adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information content on the Internet.  
+**Google Know**.  Today Google provides smarter search (semantic search - where the meaning and intent of the search is understood, leading to specific useful actions on the data).  To accomplish this, the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information content on the Internet.  
 
-Over a trillion web searches each year now flow through Schema.org to provide precise, meaningful results directly to the information resource intended, and to provide machine-processable data on the web, allowing actions such as automated airline and hotel bookings, automated reminders of appointments.  By providing meaning (semantics) to structured data on the web, Schema.org moves us closer to the next generation Internet:  the Internet of Data.
+Today a trillion web searches each year flow leverage Schema.org to provide precise, meaningful results directly to the information resource intended, and to provide machine-processable data on the web, allowing actions such as automated hotel bookings, automated airline check-in,  or automated reminders of appointments via your mobile phone.  By providing meaning (semantics) to structured data on the web, Schema.org moves us closer to the next generation Internet:  the Internet of (Machine-understandable and processable structured) Data.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
@@ -47,7 +47,7 @@ And of course, fundamentally different and incompatible schemes.
 **This begs the question: Is healthcare data categorically different from any other kind of data?**
 
 
-HealthSchema.org
+Introduction to HealthSchema.org
 -----
 
 **Healthcare data is not special.**  It must be available for management by normal people, like patients.  It does not require special containers and formats.  If we can represent ingredients for a recipe structure unambiguously on the Internet, we can also represent a medication list!
