@@ -17,13 +17,11 @@ Health data standards development is a contact sport for and by the players, not
 Structured Data: ![alt text](http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg "Structured Data Search Optimization")
 
 
-
-Structured Data: ![alt text](https://en.wikipedia.org/wiki/File:Federal_Open_Market_Committee_Meeting.jpg "Committee Meeting")
-
-
 Structured Data: ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg)
 
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="200px" height="200px" />
 
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
