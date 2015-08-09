@@ -10,11 +10,6 @@ The Healthcare Data Standards Industry
 **Health Data Standards is a Business, not a Solution**
 
 
-![Default-aligned image](image.jpg)
-
-.right[![Right-aligned image](image.jpg)]
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="400px" height="300px" />
 
 
