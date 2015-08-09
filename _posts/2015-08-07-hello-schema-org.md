@@ -3,7 +3,6 @@ layout: post
 title: Schema.org:  A Model for Health Data too
 ---
 
-
 Introduction to Schema.org
 -----
 
