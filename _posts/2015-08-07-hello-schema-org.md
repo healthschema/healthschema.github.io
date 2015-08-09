@@ -42,20 +42,20 @@ The Healthcare Data Standards Industry
 **Fifth**,it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are continuously changing - all on differet intervals.
 
 
-**In summary, it is the persistence of legacy healthcare data standards the remains a fundamental problem in HIT.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
+**In summary, it is the persistence of legacy healthcare data standards that remain the fundamental problem for health data management.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
 
 There is nothing new in the current landscape of HIT standards.  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look! A brand new (data) plumbing system!". And then the customer complains "but my (data) pipes are still leaking and clogged".
 
 
-**This begs the question: Is healthcare data categorically different from any other kind of data?**
+**This begs the question: Why do we have "healthare-data-is-special" standards in the first place?  And to follow on:  Does this mean that healthcare data is categorically different from any other kind of data?**
 
 
 Introduction to HealthSchema.org
 -----
 
-**Healthcare data is not special.**  It must be available universally and freely to the people it belongs to, the patients. It does not require special containers and formats.  If we can represent ingredients for a recipe structure unambiguously on the Internet, we can also represent a medication list.
+**Healthcare data is not special.**  It is just data.  It does not require special containers and formats. And it must be available universally and freely to the people it belongs to, the patients. If we can represent ingredients for a recipe in structured form in machine-processable form unambiguously on the Internet, we can also represent a medication list or problem list!
 
-Therefore, we believe health data should be first class citizen on world-wide information infrastructure on the Internet of Data, and share a common web-based health schema that is free and open for all to use, to create an Internet of Health Data.
+We therfore believe health data should be first class citizen on world-wide information infrastructure on the Internet of Data, and share a common web-based health schema that is free and open for all to use, to create an Internet of Health Data.
 
 
 Welcome to healthschema.org.
