@@ -55,11 +55,12 @@ Does this mean that healthcare data is categorically different from any other ki
 Healthcare Data is Not Special
 -----
 
-
-<p align="center">
 Fruit Cake <img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="150px" height="125px" />
 
 Furosemide <img src="https://d1hekt5vpuuw9b.cloudfront.net/assets/article/fe274ef18e93e75562dc05fe87b18316_are-you-taking-too-much-medicine-580x326_featuredImage.jpg" width="150px" height="125px" />
+
+
+<p align="center">
 </p>
 
 
