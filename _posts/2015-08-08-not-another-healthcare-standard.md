@@ -9,7 +9,12 @@ The Healthcare Data Standards Industry
 
 **Health Data Standards is a Business, not a Solution**
 
-**First**, healthcare data standards are *designed by committee* behind *closed doors* by "special experts" (Academics with many titles after their name,  or self-promoted "Industry Czars") rather than by the millions of consumers of this data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. This assures the central role and job security of "the experts" for continued management of these standards.
+**First**, healthcare data standards are *designed by committee* behind *closed doors* by "special experts" (Academics with many titles,  self-promoted "Industry Czars", and non-practicing health professionals who don't use HIT tools) rather than by the millions of actual users and consumers of this data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. Such a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality).  
+
+Health data standards development is a contact sport for and by the players, not the armchair experts. For the "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value.  This assures the central role and job security of "the experts" for continued management of these standards. 
+
+
+
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
 
@@ -29,7 +34,7 @@ The Healthcare Data Standards Industry
 
 **Sixth**,because these standards are so inconsistent with each other, the standards organizations feel compelled to spend most of their time attempting to "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
 
-This makes for a self-perpetuating cycle of work for all standards organizations, while making no actual forward progress. While it may feel satisfying to work on one collaborative effort after another with each other, the net effect for end users of these standards is nil. The effort spent on alignment *rather than consolidation and simplification*  is a classic example of [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
+This makes for a self-perpetuating cycle of work for all standards organizations, while making no actual forward progress. While it may feel satisfying to work on one collaborative effort after another with each other, the net effect for end users of these standards is nil. The effort spent on alignment *rather than consolidation and simplification*  is a classic example of standards bloat.
 
 
 **In summary, it is the persistence of legacy healthcare data standards that remain the fundamental problem for health data management.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
