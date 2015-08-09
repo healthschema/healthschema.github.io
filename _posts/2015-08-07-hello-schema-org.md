@@ -6,7 +6,7 @@ title: Intro to Schema.org and Health Data
 Introduction to Schema.org
 -----
 
-The Internet protocol allows one to access information through a world wide network of 10^38 universal resource locators, or URLs. If each resource represented only one byte of data (rather than a web page), this would represent a database of 10^38 bytes. A petabyte is 10^15 bytes, and is the scale of the worlds largest 'Big Data' warehouses managed by Amazon, WalMart, and Google.  The Internet therefore represents a database 10^23 times larger than anything built to man, and is of unimaginable size. How can we leverage the Internet as a database? And how how can one search or process such a vast network of distributed data?
+The Internet protocol allows one to access information through a world wide network of 10^38 universal resource locators, or URLs. If each resource represented only one byte of data (rather than a web page), this would represent a database of 10^38 bytes. A petabyte is 10^15 bytes, and is the scale of the worlds largest 'Big Data' warehouses managed by Amazon, WalMart, and Google.  The Internet therefore represents a database 10^23 times larger than anything built by man, and is of unimaginable size. How can we leverage the Internet as a database? And how how can one search or process such a vast network of distributed data?
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
