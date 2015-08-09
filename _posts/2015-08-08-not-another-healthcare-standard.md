@@ -52,11 +52,11 @@ Healthcare Data is Not Special
 
 **Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to, the patients, in a form they can consume with their normal Internet-enabled devices.  
 
-If we can represent ingredients for a food recipe in structured form in machine-processable form unambiguously throughout the Internet, surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these well identified substances, which all have ingredients.
+If we can represent ingredients for a food recipe in structured form in machine-processable form unambiguously throughout the Internet, surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these well identified substances, which all have well defined ingredients.
 
 The era of healthcare-data-is-special is over. 
 
-**Welcome, Internet of Health Data.**
+**Welcome, Internet of (Health) Data.**
 
 
 
