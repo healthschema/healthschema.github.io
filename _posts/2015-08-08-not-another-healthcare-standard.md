@@ -10,22 +10,10 @@ The Healthcare Data Standards Industry
 **Health Data Standards is a Business, not a Solution**
 
 
-Normal Text
-
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="400px" height="300px" />
 </p>
 
-Normal text
-
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="400px" height="300px" />
 
 
 **First**, healthcare data standards are *designed by committee* behind *closed doors* by "special experts" (Academics with many titles,  self-promoted "Industry Czars", and non-practicing health professionals who don't use HIT tools) rather than by the millions of actual users and consumers of this data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. 
