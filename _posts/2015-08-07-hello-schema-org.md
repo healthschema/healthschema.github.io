@@ -53,10 +53,12 @@ There is nothing new in the current landscape of HIT standards.  Only re-packagi
 Introduction to HealthSchema.org
 -----
 
-**Healthcare data is not special.**  It must be available for management by normal people, like patients.  It does not require special containers and formats.  If we can represent ingredients for a recipe structure unambiguously on the Internet, we can also represent a medication list!
+**Healthcare data is not special.**  It must be available universally and freely to the people it belongs to, the patients. It does not require special containers and formats.  If we can represent ingredients for a recipe structure unambiguously on the Internet, we can also represent a medication list.
+
+Therefore, we believe health data should be first class citizen on world-wide information infrastructure on the Internet of Data, and share a common web-based health schema that is free and open for all to use, to create an Internet of Health Data.
 
 
-On healthschema.org, we think health data shoud be first class citizen on the open, world-wide information infrastructure that we call the Internet.
+Welcome to healthschema.org.
 
 
 Stay tuned...
