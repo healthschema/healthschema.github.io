@@ -15,8 +15,7 @@ Health data standards development is a contact sport for and by the players, not
 
 
 
-<img src="http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg" alt="Smiley face"  width="300px" height="300px" align="middle">
-
+<img src="http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg" alt="Structured Data"  width="300px" height="300px" align="middle">
 
 
 
