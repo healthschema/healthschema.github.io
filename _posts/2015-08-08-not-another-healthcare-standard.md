@@ -52,6 +52,9 @@ Does this mean that healthcare data is categorically different from any other ki
 Healthcare Data is Not Special
 -----
 
+<img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="500px" height="350px" />
+
+
 **Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to, the patients, in a form they can consume with their normal Internet-enabled devices.  
 
 If we can represent ingredients for a food recipe in structured form in machine-processable form unambiguously throughout the Internet, surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these well identified substances, which all have well defined ingredients.
