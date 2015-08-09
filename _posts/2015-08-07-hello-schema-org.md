@@ -6,13 +6,13 @@ title: Schema.org:  A Model for Health Data too
 Introduction to Schema.org
 -----
 
-The Internet is the largest data resource known to man, and is capable of storing 2^128, or 10^38 bytes of data.  For reference, the largest Big Data datbases are only petabyte scale (10^15 bytes), making the Internet 10^20 orders of magnitue larger.  So how do we find things on the Internet?
+The world's largest single database projects are on the petabyte scale (10^15 bytes). The Internet protocol, on the other hand, allows one to access information through a world wide network of 10^38 bytes - over 20 orders of magnitude larger.  So how can one search the Internet?
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
-**Google Know**.  Today Google provides smarter search (semantic search - where the meaning and intent of the search is understood, leading to specific useful actions on the data).  To accomplish this, the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information content on the Internet.  
+**Google Know**.  Today Google provides "smart" search (i.e. semantic search - where the meaning and intent of the search is understood, leading to specific useful actions on the data).  To accomplish this, the Internet search giants (Google, Yahoo, Microsoft,...) adopted a single, common, open, and universally accessible schema ( [schema.org](http://schema.org/) )to provide clear, unambigous structure and definition for information content on the Internet.  
 
-Today a trillion web searches each year flow leverage Schema.org to provide precise, meaningful results directly to the information resource intended, and to provide machine-processable data on the web, allowing actions such as automated hotel bookings, automated airline check-in,  or automated reminders of appointments via your mobile phone.  By providing meaning (semantics) to structured data on the web, Schema.org moves us closer to the next generation Internet:  the Internet of (Machine-understandable and processable structured) Data.
+Today a trillion web searches each year leverage Schema.org to provide precise, meaningful results directly to the information resource intended on the web, and to provide machine-processable data on the web, allowing actions such as automated hotel bookings, automated airline check-in,  or automated reminders of appointments via your mobile phone.  By providing meaning (semantics) to structured data on the web, Schema.org moves us closer to the next generation Internet:  the Internet of (Machine-understandable and processable) Data.
 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
