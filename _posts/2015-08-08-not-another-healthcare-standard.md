@@ -14,9 +14,7 @@ The Healthcare Data Standards Industry
 Health data standards development is a contact sport for and by the players, not the armchair experts. For the "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value. Such a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality). This assures the central role and job security of "the experts" for continued management of these arcane standards. 
 
 
-Death by Committee Meeting: !
-
-[alt text](https://en.wikipedia.org/wiki/File:Federal_Open_Market_Committee_Meeting.jpg "Committee Meeting")
+Death by Committee Meeting: ![alt text](https://en.wikipedia.org/wiki/File:Federal_Open_Market_Committee_Meeting.jpg "Committee Meeting")
 
 
 [alttxt](https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg)
