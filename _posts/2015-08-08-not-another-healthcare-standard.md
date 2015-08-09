@@ -14,6 +14,10 @@ The Healthcare Data Standards Industry
 Health data standards development is a contact sport for and by the players, not the armchair experts. For the "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value. Such a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality). This assures the central role and job security of "the experts" for continued management of these arcane standards. 
 
 
+
+<p>This is some text. <img src="http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg" alt="Smiley face" align="middle"> This is some text.</p>
+
+
 <img src="http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg" width="300px" height="300px" />
 
 
