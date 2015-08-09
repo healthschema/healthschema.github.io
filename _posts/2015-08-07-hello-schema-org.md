@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schema.org:  A Model for Health Data too
+title: Intro to Schema.org
 ---
 
 Introduction to Schema.org
