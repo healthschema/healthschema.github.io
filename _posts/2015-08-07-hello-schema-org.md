@@ -44,7 +44,7 @@ The Healthcare Data Standards Industry
 
 **In summary, it is the persistence of legacy healthcare data standards the remains a fundamental problem in HIT.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
 
-There is nothing new in the current landscape of HIT standards.  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look!  Brand new plumbing system!". And then the customer complains "but my pipes are still leaking and clogged".
+There is nothing new in the current landscape of HIT standards.  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look! A brand new (data) plumbing system!". And then the customer complains "but my (data) pipes are still leaking and clogged".
 
 
 **This begs the question: Is healthcare data categorically different from any other kind of data?**
