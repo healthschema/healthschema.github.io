@@ -40,9 +40,12 @@ There is nothing new in the current landscape of HIT standards.  Only re-packagi
 Does this mean that healthcare data is categorically different from any other kind of data?**
 
 
-Why we need HealthSchema.org
+Healthcare Data is Not Special
 -----
 
-**Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.  And it must be available universally and freely to the people it ultimately belongs to, the patients, in a form they canconsume with their normal Internet devices.
+**Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to, the patients, in a form they can consume with their normal Internet-enabled devices.  
 
-If we can represent ingredients for a recipe in structured form in machine-processable form unambiguously on the Internet, we can also represent a medication list or problem list. 
+If we can represent ingredients for a food recipe in structured form in machine-processable form unambiguously throughout the Internet, surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these!
+
+
+
