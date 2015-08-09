@@ -29,7 +29,8 @@ Health data standards development is a contact sport for and by the players, not
 **Fourth**, each healthcare data standard is its own silo, with
 
 * **different release schedules** (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
-* **different formats** (dating over 30 years old)
+* **different formats** (some dating over 30 years old)
+* **different vintage** (all have different ages and origins, and thus differing conceptual and technological approaches)
 * **different licenses** (none of them freely usable or creative commmons)
 * **different data models** (using different, incompatible, and proprietary modelling tools)
 * **different paywalls** (preventing access without paying for use)
@@ -39,11 +40,11 @@ Health data standards development is a contact sport for and by the players, not
 Differing granularity is one of the biggest problems because it requires laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings. These are all highly subjective and error prone with no means of automation for consistency. In other words, this will be an **expensive, laborious, error-prone, repetitive human task - forever**.
 
 
-**Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the local needs of the customer.
+**Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they so inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the local needs of the customer.
 
-**Sixth**,because these standards are so inconsistent with each other, the standards organizations are compelled to spend a large fraction of their time attempting to continuously "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
+**Sixth**,because these standards are so inconsistent with each other (preventing standard implementations) the standards organizations are compelled to spend a large fraction of their time attempting to "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
 
-This makes for a self-perpetuating cycle of work for all standards organizations, while making no actual forward progress. While there may be some inter-organization huddles and goodwill spread, the actual net effect for end users of these standards is nil. The effort spent on never-ending alignment (see "different granularity" above) *rather than consolidation and simplification*  is a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality).
+This self-perpetuating cycle of work for all standards organizations creates much work,  while making no actual forward progress. While there may be some inter-organization goodwill spread -  the actual net effect for end users of these standards is nil. The effort spent on never-ending alignment (see "different granularity" above) *rather than consolidation and simplification*  is a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality).
 
 
 **In summary, it is the persistence of legacy healthcare data standards that remain the fundamental problem for health data management.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
