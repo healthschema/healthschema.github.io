@@ -10,7 +10,7 @@ The Healthcare Data Standards Industry
 **Health Data Standards is a Business, not a Solution**
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="500px" height="350px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="400px" height="300px" />
 
 
 **First**, healthcare data standards are *designed by committee* behind *closed doors* by "special experts" (Academics with many titles,  self-promoted "Industry Czars", and non-practicing health professionals who don't use HIT tools) rather than by the millions of actual users and consumers of this data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. 
@@ -52,7 +52,7 @@ Does this mean that healthcare data is categorically different from any other ki
 Healthcare Data is Not Special
 -----
 
-<img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="500px" height="350px" />
+<img src="http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/06/fruit-cake-hd-wallpaper-2.jpg" width="300px" height="250px" />
 
 
 **Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to, the patients, in a form they can consume with their normal Internet-enabled devices.  
