@@ -17,8 +17,10 @@ Today a trillion web searches each year leverage Schema.org to provide precise, 
 Schema.org has [many schemas](http://schema.org/docs/schemas.html) for data, both general-purpose (demographics) and concrete (restaurant).
 
 
-[Structured Data](
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCJvPq4W2m8cCFQs7Pgod_aAMXA&url=http%3A%2F%2Fwww.webseoanalytics.com%2Fblog%2Fincrease-your-click-through-rate-through-rich-snippet-implementation%2F&ei=xPnGVZvdL4v2-AH9wbLgBQ&psig=AFQjCNH2PlfVs5V1oOExtZlXQBMxlFTRhw&ust=1439189402517175)
+Inline-style: 
+![alt text](http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg "Logo Title Text 1")
+
+
 
 Introduction to HealthSchema.org
 -----
