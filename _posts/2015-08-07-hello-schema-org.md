@@ -3,7 +3,7 @@ layout: post
 title: Intro to Schema.org and Health Data
 ---
 
-Schema.org: An Introduction to Actionable Information
+An Introduction to Schema.org
 -----
 
 The world's largest single database projects are on the petabyte scale (10^15 bytes). The Internet protocol, on the other hand, allows one to access information through a world wide network of 10^38 bytes - over 20 orders of magnitude larger.  So how can one search the Internet?
