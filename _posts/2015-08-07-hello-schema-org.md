@@ -24,7 +24,7 @@ The Healthcare Data Standards Industry
 
 **Health Data Standards is a Business, not a Solution**
 
-**First**, healthcare data standards are designed by committees of special experts behind closed doors ("Academics" or Wizards") rather than by the millions of consumers of this data. The process or creating standards is not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to only the long tail and whims of special interests, and not for the basic needs of the masses. This assures the central role and job security of "the experts"  in continued management of these standards.
+**First**, healthcare data standards are *designed by committees* behind *closed doors* by special "experts" (either "Academics" or "Self-appointed Wizards") rather than by the millions of consumers of this data. The process or creating standards is not based on empirical or scientific data of usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to only the long tail and of special and academic interests, and not for the basic needs of the masses. This assures the central role and job security of "the experts"  in continued management of these standards.
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
 
