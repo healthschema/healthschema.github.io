@@ -51,12 +51,12 @@ This makes for a self-perpetuating cycle of work for all standards organizations
 **There is nothing new in the current landscape of HIT standards.**  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look! A brand new (data) plumbing architecture!". And after a few days the customer complains bitterly "but my (data) pipes are still leaking and clogged".
 
 
-**Why do we have such a proliferation of different "healthare-data-is-special" standards in the first place?
+**Why do we have such a proliferation of different "healthare-data-is-special" standards in the first place?**
 
-Does this mean that healthcare data is categorically different from any other kind of data?**
+**Does this mean that healthcare data is categorically different from any other kind of data?**
 
 
-Healthcare Data is **Not** Special
+Healthcare Data is Not Special
 -----
 
 <p align="center">
