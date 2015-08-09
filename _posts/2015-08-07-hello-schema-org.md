@@ -6,7 +6,7 @@ title: Intro to Schema.org and Health Data
 An Introduction to Schema.org
 -----
 
-The world's largest single database projects are on the petabyte scale (10^15 bytes). The Internet protocol, on the other hand, allows one to access information through a world wide network of 10^38 bytes - over 20 orders of magnitude larger.  So how can one search the Internet?
+The world's largest single database projects are on the petabyte scale (10^15 bytes). The Internet protocol, on the other hand, allows one to access information through a world wide network of 10^38 bytes - over 20 orders of magnitude larger.  So how can one search or process such a vast network of distributed data?
 
 **Google Guess**. Google search used to be based on satistical page ranks and keyword matches, generating hundreds of thousands of results per search. Google had no understanding of the meaning of the search terms, the intent of the search, nor the meaning of the statistically generated output of results.  It was up to the individual to sift through the results.
 
