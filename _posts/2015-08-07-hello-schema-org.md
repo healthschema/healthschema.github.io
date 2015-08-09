@@ -39,7 +39,7 @@ The Healthcare Data Standards Industry
 * different payment models and paywalls
 * different, ambigous and conflicting defintions.
 
-**Fifth**, each it is technically impossible to implement the myriad HIT standards in any consistent fashion, because not only are they inconsistent, but also continuously changing - all at differet intervals. 
+**Fifth**,it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are continuously changing - all on differet intervals.
 
 
 **In summary, it is the persistence of legacy healthcare data standards the remains a fundamental problem in HIT.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
