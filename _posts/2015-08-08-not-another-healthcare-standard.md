@@ -32,12 +32,13 @@ The Healthcare Data Standards Industry
 There is nothing new in the current landscape of HIT standards.  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look! A brand new (data) plumbing system!". And then the customer complains "but my (data) pipes are still leaking and clogged".
 
 
-**This begs the question: Why do we have "healthare-data-is-special" standards in the first place?  And to follow on:  Does this mean that healthcare data is categorically different from any other kind of data?**
+**Why do we have such a proliferation of different "healthare-data-is-special" standards in the first place?
+Does this mean that healthcare data is categorically different from any other kind of data?**
 
 
 Why we need HealthSchema.org
 -----
 
-**Healthcare data is not special.**  It does not require special containers and formats. It is just data.  And it must be available universally and freely to the people it belongs to, the patients. 
+**Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.  And it must be available universally and freely to the people it ultimately belongs to, the patients, in a form they canconsume with their normal Internet devices.
 
-If we can represent ingredients for a recipe in structured form in machine-processable form unambiguously on the Internet, we can also represent a medication list or problem list!
+If we can represent ingredients for a recipe in structured form in machine-processable form unambiguously on the Internet, we can also represent a medication list or problem list. 
