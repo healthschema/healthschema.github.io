@@ -22,10 +22,10 @@ Health data standards development is a contact sport for and by the players, not
 
 **Fourth**, each healthcare data standard is its own silo, with
 
-* **different schedules** for release  (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
-* **different formats** (dating over 25 years old)
+* **different release schedules** (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
+* **different formats** (dating over 30 years old)
 * **different licenses** (none of them freely usable or creative commmons)
-* **different data models**
+* **different data models** (using different, incompatible, and proprietary modelling tools)
 * **different paywalls** (preventing access without paying for use)
 * **different defintions** (both ambigous and conflicting)
 * **different granularity** (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards;  rather it will require laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings. These are all highly subjective and error prone, with no means of automated checking for consistency. In other words, this will be an ongoing, expensive, laborious, repetitive task - forever).
