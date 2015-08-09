@@ -22,13 +22,13 @@ Health data standards development is a contact sport for and by the players, not
 
 **Fourth**, each healthcare data standard is its own silo, with
 
-* different **release schedules**  (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
-* different **formats** (dating over 25 years old)
-* different **licenses** (none of them freely usable or creative commmons)
-* different **data models**
-* different **paywalls** (preventing access without paying for use)
-* different, ambigous and conflicting **defintions**.
-* different **granularity** (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards;  rather it will require laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings which are all highly subjective and error prone, with no means of automated checking for consistency. There is **no automation** capability in this situation.  It will forever be an expensive, laborious task).
+* **different schedules** for release  (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
+* **different formats** (dating over 25 years old)
+* **different licenses** (none of them freely usable or creative commmons)
+* **different data models**
+* **different paywalls** (preventing access without paying for use)
+* **different defintions** (both ambigous and conflicting)
+* **different granularity** (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards;  rather it will require laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings. These are all highly subjective and error prone, with no means of automated checking for consistency. In other words, this will be an ongoing, expensive, laborious, repetitive task - forever).
 
 
 **Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the local needs of the customer.
