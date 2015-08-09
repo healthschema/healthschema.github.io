@@ -9,17 +9,13 @@ The Healthcare Data Standards Industry
 
 **Health Data Standards is a Business, not a Solution**
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="500px" height="350px" />
+
+
 **First**, healthcare data standards are *designed by committee* behind *closed doors* by "special experts" (Academics with many titles,  self-promoted "Industry Czars", and non-practicing health professionals who don't use HIT tools) rather than by the millions of actual users and consumers of this data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. 
 
 Health data standards development is a contact sport for and by the players, not the armchair experts. For the "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value. Such a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality). This assures the central role and job security of "the experts" for continued management of these arcane standards. 
-
-
-
-<img src="http://www.webseoanalytics.com/blog/wp-content/uploads/2013/07/Structured-Data-SEO-580x580.jpg" alt="Structured Data"  width="300px" height="300px" align="middle">
-
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Federal_Open_Market_Committee_Meeting.jpg" width="400px" height="200px" />
 
 
 **Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
