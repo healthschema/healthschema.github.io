@@ -31,12 +31,11 @@ focused information extraction endeavors.
 
 
 Links:
-http://microformats.org
-http://commoncrawl.org
+* http://microformats.org
+* http://commoncrawl.org
 
 
-Notes:
-
+Notable Quotes:
 
 "Deployment by Popularity of Website: Alexa Internet Inc. maintains a list of the
 most frequently visited websites. In order to find out how many of the most popular
@@ -92,6 +91,6 @@ knowledge base constructed from the raw Microdata extraction.
 
 
 Links:
-http://schema.org
-http://webdatacommons.org/structureddata
-http://commoncrawl.org
+* http://schema.org
+* http://webdatacommons.org/structureddata
+* http://commoncrawl.org
