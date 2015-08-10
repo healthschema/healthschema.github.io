@@ -2,16 +2,14 @@
 layout: post
 title: Quantitative Analysis of Structured Data on the Web
 ---
-
-
-References:
+Reference:
 
 ####Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
 Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
 [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
 
 
-Abstract.
+Abstract:
 More and more websites embed structured data describing for instance
 products, reviews, blog posts, people, organizations, events, and cooking recipes
 into their HTML pages using markup standards such as Microformats, Microdata
@@ -30,7 +28,6 @@ be used as starting points for further domain-specific investigations as well as
 focused information extraction endeavors.
 
 Notable Quote:
-
 Deployment by Popularity of Website: [Alexa Internet Inc.](http://www.alexa.com/) maintains a list of the
 most frequently visited websites. In order to find out how many of the most popular
 websites provide structured data, we analyzed the deployment of RDFa, Microdata and
@@ -56,8 +53,8 @@ There  is a strong correlation between publishing data in structured form and se
 
 
 Links
-* http://microformats.org
-* http://commoncrawl.org
+ * http://microformats.org
+ * http://commoncrawl.org
 
 
 ***
@@ -82,8 +79,8 @@ knowledge base constructed from the raw Microdata extraction.
 
 
 Links:
-* http://schema.org
-* http://webdatacommons.org/structureddata
-* http://commoncrawl.org
+ * http://schema.org
+ * http://webdatacommons.org/structureddata
+ * http://commoncrawl.org
 
 ***
