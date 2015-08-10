@@ -56,8 +56,8 @@ There  is a strong correlation between publishing data in structured form and se
 
 
 Links
-* [microformats.org](http://microformats.org)
-* [commoncrawl.org](http://commoncrawl.org)
+* http://microformats.org
+* http://commoncrawl.org
 
 
 ***
@@ -81,9 +81,9 @@ post-processing step. We apply those heuristics to provide an improved
 knowledge base constructed from the raw Microdata extraction.
 
 
-
 Links:
-[schema.org](http://schema.org)
-[webdatacommons.org](http://webdatacommons.org/structureddata)
-[commoncrawl.org](http://commoncrawl.org)
+* http://schema.org
+* http://webdatacommons.org/structureddata
+* http://commoncrawl.org
 
+***
