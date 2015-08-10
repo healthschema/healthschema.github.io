@@ -6,7 +6,7 @@ title: Intro to Schema.org
 Introduction to Schema.org
 -----
 
-**The Internet is vast.  Semantic Search changes this.**
+**The Web is of Documents is becoming the Web of Structured Data.**
 
 The Internet protocol allows one to access information through a world wide network of 10^38 universal resource locators (URLs). If each resource represented only one byte of data (rather than a web page), this would represent a database of 10^38 bytes. A petabyte is 10^15 bytes, and is the scale of the worlds largest 'Big Data' warehouses managed by Amazon, WalMart, and Google.  The Internet therefore represents a database 10^23 times larger than any single data repository built by man. How can we leverage the Internet as a database? And how how can one search or process such a vast network of distributed data?
 
