@@ -27,20 +27,20 @@ extracted data are publicly available. This allows our findings to be verified a
 be used as starting points for further domain-specific investigations as well as for
 focused information extraction endeavors.
 
-Notable Quote:
+Notable Finding:
 Deployment by Popularity of Website: [Alexa Internet Inc.](http://www.alexa.com/) maintains a list of the
 most frequently visited websites. In order to find out how many of the most popular
 websites provide structured data, we analyzed the deployment of RDFa, Microdata and
 Microformats on websites that are in the Alexa list of the top 1  million websites. The 
 results of our analysis are given in the four rightmost columns of Table 2 and show that
-**the percentage of the Alexa-listed websites providing structured data (74.75% of the top
+the percentage of the Alexa-listed websites providing structured data (74.75% of the top
 100 and 20.56% of the top 1  million) is significantly higher than the percentage of all
-websites within the Common Crawl that contain structured data (5.64%).**
+websites within the Common Crawl that contain structured data (5.64%).
 
-Table2: Coverage of the PLDs in the Alexa top 1  million list (AL) by the Common Crawl corpus
+Table2: Coverage of the Primary Level Domains (PLDs) in the Alexa top 1  million list (AL) by the Common Crawl (CC) corpus
 and percentage of these PLDs containing structured data.
 
-First x in AL       |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
+**Top # in AL |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats**
 100     | 99        |  99.00 | 74.75    | 34.34   | 55.56   | 68.69
 1k      | 963       |  96.30 | 62.62    | 40.08   |  31.67  | 46.11
 10k     |  9,294    |  92.94 |  47.34   | 30.47   | 15.55   | 29.75
@@ -48,11 +48,11 @@ First x in AL       |  PLDs in CC | # % AL |  % containing structured data | ove
 1m      |  734,882  |  73.49 |  20.56   |  7.55   | 3.04    | 14.18
 
 
-Takeaway message:
+Takeaway:
 There  is a strong correlation between publishing data in structured form and search engine ranking. If you want your web content to be discoverable, processable, and  index-able (by the search engines) you better start use structured data markup!
 
 
-Links
+Links:
  * http://microformats.org
  * http://commoncrawl.org
 
