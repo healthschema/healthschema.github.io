@@ -6,9 +6,10 @@ title: Quantitative Analysis of Structured Data on the Web
 
 References:
 
-Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
+*Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis*
 Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
-http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf
+[paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
+
 
 Abstract.
 More and more websites embed structured data describing for instance
@@ -59,19 +60,19 @@ First x in AL |  PLDs in CC | # % AL |  % containing structured data | overall R
 
 
 
-=>Evidence  that there is a a correlation between publishing data in structured form and search engine ranking.
-=> If you want your web content to be discoverable, processable, and  index-able
-(by the search engines) you better start using structured data markup!
+Takeaway message:
+* There  is a a correlation between publishing data in structured form and search engine ranking.
+* If you want your web content to be discoverable, processable, and  index-able
+(by the search engines) you better start use structured data markup!
 
 
 
 
 
 
-
-Heuristics for Fixing Common Errors in Deployed schema.org Microdata
+*Heuristics for Fixing Common Errors in Deployed schema.org Microdata*
 Robert Meusel and Heiko Paulheim
-http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/MeuselPaulheim-HeuristicsForFixingCommonErrorsInDeployedSchemaOrgMicrodata-ESWC2015.pdf
+[paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/MeuselPaulheim-HeuristicsForFixingCommonErrorsInDeployedSchemaOrgMicrodata-ESWC2015.pdf)
 
 
 Abstract.
@@ -92,5 +93,5 @@ knowledge base constructed from the raw Microdata extraction.
 
 Links:
 http://schema.org
-htttp://webdatacommons.org/structureddata/
+http://webdatacommons.org/structureddata
 http://commoncrawl.org
