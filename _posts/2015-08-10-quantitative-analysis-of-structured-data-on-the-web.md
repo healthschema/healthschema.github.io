@@ -30,8 +30,8 @@ be used as starting points for further domain-specific investigations as well as
 focused information extraction endeavors.
 
 Links
-- http://microformats.org
-- http://commoncrawl.org
+[microformats.org](http://microformats.org)
+[commoncrawl.org](http://commoncrawl.org)
 
 
 Notable Quote:
@@ -89,6 +89,7 @@ knowledge base constructed from the raw Microdata extraction.
 
 
 Links:
-* http://schema.org
-* http://webdatacommons.org/structureddata
-* http://commoncrawl.org
+[schema.org](http://schema.org)
+[webdatacommons.org](http://webdatacommons.org/structureddata)
+[commoncrawl.org](http://commoncrawl.org)
+
