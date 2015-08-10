@@ -47,15 +47,15 @@ the percentage of the Alexa-listed websites providing structured data (74.75% of
 websites within the Common Crawl that contain structured data (5.64%)."
 
 
-Table: Coverage of the PLDs in the Alexa top 1  million list (AL) by the Common Crawl corpus
+Table2: Coverage of the PLDs in the Alexa top 1  million list (AL) by the Common Crawl corpus
 and percentage of these PLDs containing structured data.
 
-First x in AL |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
-100   | 99             |  99.00 | 74.75  | 34.34   | 55.56   | 68.69
-1k      | 963           |  96.30 | 62.62  | 40.08   |  31.67  | 46.11
-10k   |  9,294       |  92.94 |  47.34  | 30.47  | 15.55   | 29.75
-100k |  85,058    |  85.01 |  31.94  | 16.46  |  7.20     | 20.07
-1m     |  734,882 |  73.49 |  20.56  |  7.55   | 3.04       | 14.18
+First x in AL       |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
+100     | 99        |  99.00 | 74.75    | 34.34   | 55.56   | 68.69
+1k      | 963       |  96.30 | 62.62    | 40.08   |  31.67  | 46.11
+10k     |  9,294    |  92.94 |  47.34   | 30.47   | 15.55   | 29.75
+100k    |  85,058   |  85.01 |  31.94   | 16.46   |  7.20   | 20.07
+1m      |  734,882  |  73.49 |  20.56   |  7.55   | 3.04    | 14.18
 
 
 
