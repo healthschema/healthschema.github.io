@@ -58,18 +58,12 @@ Links
 
 
 ***
-
-####Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
-Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
-[paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
-
-
 ####Heuristics for Fixing Common Errors in Deployed schema.org Microdata
 Robert Meusel and Heiko Paulheim
 [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/MeuselPaulheim-HeuristicsForFixingCommonErrorsInDeployedSchemaOrgMicrodata-ESWC2015.pdf)
 
 
-Abstract.
+Abstract:
 Being  promoted  by  major  search  engines  such  as  Google,
 Yahoo!,  Bing,  and  Yandex,  Microdata  embedded  in  web  pages,  espe-
 cially using schema.org, has become one of the most important markup
