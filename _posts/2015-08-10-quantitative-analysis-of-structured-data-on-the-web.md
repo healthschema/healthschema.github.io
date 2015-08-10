@@ -29,23 +29,21 @@ extracted data are publicly available. This allows our findings to be verified a
 be used as starting points for further domain-specific investigations as well as for
 focused information extraction endeavors.
 
+Links
+- http://microformats.org
+- http://commoncrawl.org
 
-Links:
-* http://microformats.org
-* http://commoncrawl.org
 
+Notable Quote:
 
-Notable Quotes:
-
-"Deployment by Popularity of Website: Alexa Internet Inc. maintains a list of the
+Deployment by Popularity of Website: [Alexa Internet Inc.](http://www.alexa.com/) maintains a list of the
 most frequently visited websites. In order to find out how many of the most popular
 websites provide structured data, we analyzed the deployment of RDFa, Microdata and
-Microformats on websites that are in the Alexa list of the top 1  million websites. The
+Microformats on websites that are in the Alexa list of the top 1  million websites. The 
 results of our analysis are given in the four rightmost columns of Table 2 and show that
-the percentage of the Alexa-listed websites providing structured data (74.75% of the top
+**the percentage of the Alexa-listed websites providing structured data (74.75% of the top
 100 and 20.56% of the top 1  million) is significantly higher than the percentage of all
-websites within the Common Crawl that contain structured data (5.64%)."
-
+websites within the Common Crawl that contain structured data (5.64%).**
 
 Table2: Coverage of the PLDs in the Alexa top 1  million list (AL) by the Common Crawl corpus
 and percentage of these PLDs containing structured data.
@@ -60,7 +58,7 @@ First x in AL       |  PLDs in CC | # % AL |  % containing structured data | ove
 
 
 Takeaway message:
-* There  is a a correlation between publishing data in structured form and search engine ranking.
+* There  is a strong correlation between publishing data in structured form and search engine ranking.
 * If you want your web content to be discoverable, processable, and  index-able
 (by the search engines) you better start use structured data markup!
 
