@@ -17,39 +17,38 @@ The Healthcare Data Standards Industry
 
 **What's Wrong with Healthcare Standards Today?**
 
-**First**, healthcare data standards are *designed by committee* behind *closed doors* by insider-balloted "experts" (Academics with many titles,  self-promoted "Industry Czars", and non-practicing health professionals who don't even use HIT tools) rather than by the millions of actual users and consumers of health data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have).  As a result these vocabularies and models bloat out of control with irrelevant complexity, catering to the long tail of only special and academic interests, while neglecting basic needs of the masses. 
+**First**, healthcare data standards are *designed by committee* behind *closed doors* by insider-balloted "experts" (Academics,  self-promoted "Industry Czars", and non-practicing or non-health professionals) rather than by the millions of front-line users and consumers of health data. The process of creating standards is not based on empirical or scientific data regarding actual usage by doctors and patients (the kinds of information search engine companies have). It is simply not a closed-loop process.  As a result these standards bloat out of control with irrelevant complexity, catering to the long tail of special and academic interests, while neglecting basic needs of the masses. 
 
-Health data standards development is a contact sport for and by the players, not armchair experts. For the "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value.  This assures the central role and job security of "the experts" for continued management of bloated, arcane standards. 
+Health data standards development is a contact sport for and by the players, not armchair experts. For the these "experts" it is antithetical to streamline, shrink, and streamline any standard. Rather, they would expanding the standard with hair-splitting nuance of little practical value.  This assures their central role and job security for continued management of bloated, arcane standards.
 
 
-**Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability.  
+**Second**, all health data standards organization have different agendas, goals, and procedures they need to support, not least of which is to monetize their special standard to assure organizational sustainability. This leads to a wide diversity of approaches and perspectives as to even create a standard.
 
-**Third**, many of these organizations have been in sustainment mode for over three decades.  In information science timescales, their standards are dinsaurs, pre-dating the existence of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for data.  Information is not controlled by "special" people and organizations anymore. Everyone has a voice on the Internet now. 
+**Third**, many of these organizations and standards have been in sustainment for over three decades.  In information science timescales, their standards are dinsaurs, pre-dating the existence of the Internet (and its vast, dynamic, real-time information network) as the primary distribution channel for data.  Information is not controlled by "special" people and organizations anymore. Everyone has a voice on the Internet now. 
 
 **Fourth**, each healthcare data standard is its own silo, with
 
-* **different release schedules** (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
+* **different schedules** for release (irregular, weekly, monthly, quarterly, annually, and even decade-ly)
 * **different formats** (some dating over 30 years old)
 * **different vintage** (all have different ages and origins, and thus differing conceptual and technological approaches)
 * **different licenses** (none of them freely usable or creative commmons)
-* **different data models** (using different, incompatible, and proprietary modelling tools)
-* **different paywalls** (preventing access without paying for use)
+* **different data models** (with different, incompatible, and proprietary tooling)
+* **different paywalls** (preventing access without paying "membership dues")
 * **different defintions** (both ambigous and conflicting)
-* **different granularity** (guaranteeing that there will never be any "straightforward" or one-to-one mapping between any of the standards).
+* **different granularity** (guaranteeing that there will never be any straightforward or one-to-one mapping between any of the standards).
 
-Differing granularity is one of the biggest problems because it requires laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings. These are all highly subjective and error prone with no means of automation for consistency. In other words, this will be an **expensive, laborious, error-prone, repetitive human task - forever**.
-
-
-**Fifth**, it is technically *impossible* to implement the current HIT standards in any consistent fashion across healthcare systems, because not only are they so inconsistent, but they are "flexible", allowing completely implementation-specific versions of each depending on the local needs of the customer.
-
-**Sixth**,because these standards are so inconsistent with each other (preventing standard implementations) the standards organizations are compelled to spend a large fraction of their time attempting to "align" themselves with each other. This self-reinforcing behaviour apparently strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
-
-This self-perpetuating cycle of work for all standards organizations creates much work,  while making no actual forward progress. While there may be some inter-organization goodwill spread -  the actual net effect for end users of these standards is nil. The effort spent on never-ending alignment (see "different granularity" above) *rather than consolidation and simplification*  is a process is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality).
+Differing granularity is one of the largest challenges because it requires laborious human expert curation of one-to-many, many-to-one, and many-to-many mappings. These are all highly subjective and error prone with no means of automation for consistency. In other words, this will be an **expensive, laborious, error-prone, repetitive human task - forever**.
 
 
-**In summary, it is the persistence of legacy healthcare data standards that remain the fundamental problem for health data management.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
+**Fifth**, it is technically impossible to implement the current HIT standards in a consistent fashion across healthcare systems because not only are they inconsistent, but they are "flexible" (if a concept doesn't fit the slot, one may insert any  free text or code desired). This allows completely implementation-specific use of the standard depending on the perspectives of the customer. In an audit of one of the health data standards in the U.S. called consolidated continuity of care document (C-CDA), most CCDA's correctly encoded only 60-65% of the data, leading to a 30-35% structured data loss. ([See CCDA Scorecard here](http://ccda-scorecard.smartplatforms.org/static/ccdaScorecard) ). Even a 1% data loss (depending on what that piece of data is) is enough to cause patient harm. 
+
+**Sixth**,because these standards remain so inconsistent with each other (preventing standard implementations), standards organizations are compelled to spend a large fraction of their time attempting to "align" themselves with each other. This self-reinforcing behaviour is percieved to strengthens their mutual value (by making them interdependent?), but in fact only complicates the situation, because their mappings are only partial, and only short-lived (until any one of the standards changes, which they have a habit of doing frequently). 
+
+This self-perpetuating cycle of work for all standards organizations creates much work,  while making no actual forward progress. While there may be some inter-organization social bonding, the effect for end users of these standards is nil. The effort spent on never-ending alignment (see "different granularity" and "inconsistency" above) *rather than consolidation and simplification*  is epitomized by [Parkinson's Law of Triviality](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality).
 
 **There is nothing new in the current landscape of HIT standards.**  Only re-packaging of legacy standards, not unlike a plumber putting gold foil on clogged and leaking lead pipes and exlaiming "Look! A brand new (data) plumbing architecture!". And after a few days the customer complains bitterly "but my (data) pipes are still leaking and clogged".
+
+**In summary, it is the persistence (or recycling) of legacy healthcare data standards that remain the fundamental problem for health data management.**  Health Information Technology (HIT) product vendors support this state of legacy HIT standards because it provides them top cover: "We use HIT standard XYZ... therefore we must be interoperable!" while remaining completely silo'd because every one of these standards is completely and utterly implementation-specific.  The HIT Systems Integrators and  Consultants support the status quo, since it provides them a never-ending and lucrative supply of complex, costly data integration contracts.
 
 
 **Why do we have such a proliferation of different "healthare-data-is-special" standards in the first place?**
