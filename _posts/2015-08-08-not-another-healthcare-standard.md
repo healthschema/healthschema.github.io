@@ -68,9 +68,9 @@ Furosemide <img src="https://d1hekt5vpuuw9b.cloudfront.net/assets/article/fe274e
 
 **Healthcare data is not special.**  It does not require special containers, formats, structures, or packaging. It is just data.   Health data must be available universally and freely to the people it ultimately belongs to -patients -  in a form they can consume with their normal Internet-enabled devices.  
 
-If we can represent ingredients for a food recipe in structured form in machine-processable form unambiguously throughout the Internet, surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these well identified substances, which all have well defined ingredients.
+If we can represent ingredients for a recipe in structured form in machine-processable form unambiguously throughout the Internet (See [NYT article](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0) and [Google's strucctured recipes](https://developers.google.com/structured-data/rich-snippets/recipes) ), surely we can represent the ingredients of a medication.  Fruit cakes or Furosemide,  meat pies or Metoprolol,  and Chardonnay or Captopril -  it makes no difference.  Patients ultimately consume all of these well identified substances, which all have well defined ingredients.
 
-The era of healthcare-data-is-special is over. 
+The era of "healthcare-data-is-special" is over. 
 
 **Welcome Back, Internet of (Health) Data.**
 
