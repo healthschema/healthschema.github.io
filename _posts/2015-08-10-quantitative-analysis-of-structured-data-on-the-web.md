@@ -6,7 +6,7 @@ title: Quantitative Analysis of Structured Data on the Web
 
 References:
 
-*Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis*
+####Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
 Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
 [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
 
@@ -28,11 +28,6 @@ published by the large Web companies, is that the analyzed crawl as well as the
 extracted data are publicly available. This allows our findings to be verified and to
 be used as starting points for further domain-specific investigations as well as for
 focused information extraction endeavors.
-
-Links
-[microformats.org](http://microformats.org)
-[commoncrawl.org](http://commoncrawl.org)
-
 
 Notable Quote:
 
@@ -56,18 +51,17 @@ First x in AL       |  PLDs in CC | # % AL |  % containing structured data | ove
 1m      |  734,882  |  73.49 |  20.56   |  7.55   | 3.04    | 14.18
 
 
-
 Takeaway message:
-* There  is a strong correlation between publishing data in structured form and search engine ranking.
-* If you want your web content to be discoverable, processable, and  index-able
-(by the search engines) you better start use structured data markup!
+There  is a strong correlation between publishing data in structured form and search engine ranking. If you want your web content to be discoverable, processable, and  index-able (by the search engines) you better start use structured data markup!
 
 
+Links
+* [microformats.org](http://microformats.org)
+* [commoncrawl.org](http://commoncrawl.org)
 
 
-
-
-*Heuristics for Fixing Common Errors in Deployed schema.org Microdata*
+***
+####Heuristics for Fixing Common Errors in Deployed schema.org Microdata
 Robert Meusel and Heiko Paulheim
 [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/MeuselPaulheim-HeuristicsForFixingCommonErrorsInDeployedSchemaOrgMicrodata-ESWC2015.pdf)
 
