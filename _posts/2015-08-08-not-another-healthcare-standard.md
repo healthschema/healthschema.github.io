@@ -33,7 +33,7 @@ Health data standards development is a contact sport for and by the players, not
 * **different vintage** (all have different ages and origins, and thus differing conceptual and technological approaches)
 * **different licenses** (none of them freely usable or creative commmons)
 * **different data models** (with different, incompatible, and proprietary tooling)
-* **different paywalls** (preventing access without paying "membership dues")
+* **different paywalls** (preventing access without paying "membership dues" for codes or schemas, ranging from $200-1500/ per provider per year, or $ millions per year for site licenses per year)
 * **different defintions** (both ambigous and conflicting)
 * **different granularity** (guaranteeing that there will never be any straightforward or one-to-one mapping between any of the standards).
 
