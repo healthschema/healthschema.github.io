@@ -1,4 +1,4 @@
-## schema.org site
+## healthschema.org site
 
 layout and organization from [poole](https://github.com/poole/poole)
 
