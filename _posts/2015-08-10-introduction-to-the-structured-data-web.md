@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structured Data on the Web: A Quantitative Analysis
+title: Introduction to the Structured Data Web
 ---
 
 
@@ -11,7 +11,9 @@ title: Structured Data on the Web: A Quantitative Analysis
 
 
 ### The Structured Data Web
-The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.  If you want your content to be discoverable, indexable, computable, re-usable, interlinked, or highly ranked by the search engines, publish your content as structured data on the web.
+The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.  
+
+Today if you want your content to be discoverable, indexable, computable, reusable, interlinked, searchable, or highly ranked by any of the search engines - you'll need to publish your content clearly as structured data on the web.
 
 
 ***
