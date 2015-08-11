@@ -3,11 +3,14 @@ layout: post
 title: Structured Data on the Web: A Quantitative Analysis
 ---
 
+### The Structured Data Web
 
-The word is out: Structured data on the web is hot, and is powering the next generation of web-based, data-driven applications. 
-Studies show the strong correlation between publishing data in structured form and search engine ranking.  If you want your web content to be discoverable, indexable, processable, and highly ranked (by search engines), publish structured data!
+The word is out: Structured data on the web is here, and is powering the next generation of smarter, data-driven web applications. If you want your web content to be discoverable, indexable, processable, re-usable, and highly ranked (by search engines), publish structured data.  
 
-Welcome,  Web of (Structured) Data.
+A few references below to get you started with the facts.
+
+**Welcome,  Web of (Structured) Data.**
+
 
 
 References:
@@ -40,6 +43,7 @@ Links:
 
 
 ***
+
 #### Heuristics for Fixing Common Errors in Deployed schema.org Microdata
 Robert Meusel and Heiko Paulheim
 [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/MeuselPaulheim-HeuristicsForFixingCommonErrorsInDeployedSchemaOrgMicrodata-ESWC2015.pdf)
@@ -53,5 +57,3 @@ Links:
  * http://schema.org
  * http://webdatacommons.org/structureddata
  * http://commoncrawl.org
-
-***
