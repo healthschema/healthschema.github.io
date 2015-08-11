@@ -3,7 +3,6 @@ layout: post
 title: The Structured Data Web
 ---
 
-
 <p align="center">
   <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" 
   width="300px" height="250px" />
@@ -11,14 +10,14 @@ title: The Structured Data Web
 
 
 ### Welcome to the Structured Data Web
-The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.
+The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications and providing much richer integration of data and services for end users of the web.
 
-Today if you want your content to be discoverable, searchable,indexable, computable, reusable, interlinked, or highly ranked by any of the search engines - you'll need to publish your content clearly as structured data on the web.
+Today if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable (not to mention highly ranked by the major web search engines) you'll want to publish your content as structured data on the web.  
 
 
 ***
 
-#### Introduction to Structured Data on the Web: Why and How.
+#### The Structured Data Web: What? Why? How?
 * http://googlewebmastercentral.blogspot.com/2013/05/getting-started-with-structured-data.html
 * http://webdesign.tutsplus.com/articles/an-introduction-to-structured-data-markup--webdesign-8577
 * http://searchengineland.com/demystifying-knowledge-graph-201976
