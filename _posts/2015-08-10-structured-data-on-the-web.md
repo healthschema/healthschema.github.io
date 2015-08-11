@@ -5,17 +5,13 @@ title: Structured Data on the Web: A Quantitative Analysis
 
 
 <p align="center">
-  <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" width="400px" height="300px" />
+  <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" 
+  width="300px" height="250px" />
 </p>
 
 
-
-
 ### The Structured Data Web
-
-Structured data on the web is here, and is powering the next generation of smarter, data-driven web applications. If you want your web content to be discoverable, indexable, processable, re-usable, and highly ranked, publish and use structured data.  
-
-A few links a papers to get started below.
+The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.  If you want your content to be discoverable, indexable, computable, re-usable, interlinked, or highly ranked by the search engines, publish your content as structured data on the web.
 
 
 ***
