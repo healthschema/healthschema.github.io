@@ -3,6 +3,14 @@ layout: post
 title: Structured Data on the Web: A Quantitative Analysis
 ---
 
+
+<p align="center">
+  <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" width="400px" height="300px" />
+</p>
+
+
+
+
 ### The Structured Data Web
 
 Structured data on the web is here, and is powering the next generation of smarter, data-driven web applications. If you want your web content to be discoverable, indexable, processable, re-usable, and highly ranked, publish and use structured data.  
@@ -11,16 +19,16 @@ A few links a papers to get started below.
 
 
 ***
-Links:
 
-#### Introduction to Structured Data on the Web: Why is it Important?
+#### Introduction to Structured Data on the Web: Why and How.
 * http://googlewebmastercentral.blogspot.com/2013/05/getting-started-with-structured-data.html
 * http://webdesign.tutsplus.com/articles/an-introduction-to-structured-data-markup--webdesign-8577
 * http://searchengineland.com/demystifying-knowledge-graph-201976
 * http://dejanseo.com.au/2012-brings-3-key-improvements-in-googles-algorithm/
+* http://www.newyorker.com/culture/culture-desk/the-web-gets-smarter
+
 
 ***
-Papers:
 
 #### Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
 Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
