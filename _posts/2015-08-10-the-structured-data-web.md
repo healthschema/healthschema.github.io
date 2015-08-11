@@ -10,10 +10,10 @@ title: Introduction to the Structured Data Web
 </p>
 
 
-### The Structured Data Web
-The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.  
+### Introduction to the Structured Data Web
+The Internet is transforming from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications.
 
-Today if you want your content to be discoverable, indexable, computable, reusable, interlinked, searchable, or highly ranked by any of the search engines - you'll need to publish your content clearly as structured data on the web.
+Today if you want your content to be discoverable, searchable,indexable, computable, reusable, interlinked, or highly ranked by any of the search engines - you'll need to publish your content clearly as structured data on the web.
 
 
 ***
