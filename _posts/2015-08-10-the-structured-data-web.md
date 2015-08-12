@@ -10,11 +10,18 @@ title: The Structured Data Web
 
 
 ### Welcome to the Structured Data Web
-The Internet is evolving from a Web of Documents to a Web of Data, driving the next generation of smarter, data-driven web applications and providing much richer integration of data and services for and by end users of the web.
+The Internet is evolving from a Web of Documents to a Web of Data, driving the next generation of smarter, data-driven web applications and providing richer integration of data and services for and by end users of the web.
 
-Today it is not enough to publish  unstructured text in web pages.  Web crawlers search engines, and web agents are capable now of understanding structured data.  Therefore, if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use in general - you'll want to publish your content as structured data on the web.  Some more background on why and how follow.
+Today it is not enough to publish  unstructured text that is only human readable. Users of the web expect much more functionality that comes only from intelligent machine processing of data within the web pages. Web crawlers, search engines, and web agents are capable now of understanding structured data.  Therefore, if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use in general - you'll want to publish your content as structured data on the web.
 
+A recent analysis of 40 million primary level domains (PLDs) containing 3 billion HTML web pages shows that if your website is going to be relevant (top ranked by search engines and popular with end users), it will contain structured data. There is a significant correlation of website ranking with the percentage of structure data it contains:
 
+Top Ranked Sites |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
+100     | 99        |  99.00 | 74.75    | 34.34   | 55.56   | 68.69
+1k      | 963       |  96.30 | 62.62    | 40.08   |  31.67  | 46.11
+10k     |  9,294    |  92.94 |  47.34   | 30.47   | 15.55   | 29.75
+100k    |  85,058   |  85.01 |  31.94   | 16.46   |  7.20   | 20.07
+1m      |  734,882  |  73.49 |  20.56   |  7.55   | 3.04    | 14.18
 
 ***
 
@@ -28,17 +35,21 @@ Today it is not enough to publish  unstructured text in web pages.  Web crawlers
 
 ***
 
+### Studies
+
 #### Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis
-Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker
-[paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
+Christian Bizer, Kai Eckert, Robert Meusel, Hannes Mühleisen ,Michael Schuhmacher, and Johanna Völker. [paper](http://dws.informatik.uni-mannheim.de/fileadmin/lehrstuehle/ki/pub/Bizer-etal-DeploymentRDFaMicrodataMicroformats-ISWC-InUse-2013.pdf)
 
-Abstract:
-More and more websites embed structured data describing for instance products, reviews, blog posts, people, organizations, events, and cooking recipes into their HTML pages using markup standards such as Microformats, Microdata and RDFa. This development has accelerated in the last two years as major Web companies, such as Google, Facebook, Yahoo!, and Microsoft, have started to use the embedded data within their applications. In this paper, we analyze the adoption of RDFa, Microdata, and Microformats across the Web. 
+Synopsis:
+More and more websites embed structured data describing products, reviews, blog posts, people, organizations, events, and cooking recipes into their HTML pages using markup standards such as Microdata and RDFa. This development has accelerated in the last two years as major Web companies, such as Google, Facebook, Yahoo!, and Microsoft have started to use this embedded data within their applications.
 
-Our study is based on a large public Web crawl dating from early 2012 and consisting of 3 billion HTML pages which originate from over 40 million websites.  The analysis reveals the deployment of the different markup standards, the main topical areas of the published data as well as the different vocabularies that are used within each topical area to represent data. What distinguishes our work from earlier studies, published by the large Web companies, is that the analyzed crawl as well as the extracted data are publicly available. This allows our findings to be verified and to be used as starting points for further domain-specific investigations as well as for focused information extraction endeavors.
+In this paper, we analyze the adoption of RDFa, Microdata, and Microformats across the Web. 
+Our study is based on a large public Web crawl dating from early 2012 and consisting of 3 billion HTML pages which originate from over 40 million websites.  The analysis reveals the deployment of the different markup standards, the main topical areas of the published data as well as the different vocabularies that are used within each topical area to represent data. 
 
-Key Findings:
-Deployment by Popularity of Website: [Alexa Internet Inc.](http://www.alexa.com/) maintains a list of the most frequently visited websites. In order to find out how many of the most popular websites provide structured data, we analyzed the deployment of RDFa, Microdata and Microformats on websites that are in the Alexa list of the top 1  million websites. The results of our analysis (presented in the four rightmost columns of Table 2) show that the percentage of the top-listed websites providing structured data (74.75% of the top 100 and 20.56% of the top 1  million) is significantly higher than the percentage of all other (40 million) websites that contain structured data (5.64%).
+Method:
+[Alexa Internet Inc.](http://www.alexa.com/) maintains a list of the most frequently visited websites. In order to find out how many of the most popular websites provide structured data, we analyzed the deployment of RDFa, Microdata and Microformats on websites that are in the Alexa list of the top 1  million websites. 
+
+The results of the analysis (in  the four rightmost columns of Table 2) show that the top-ranked websites provide structured data (74.75% of the top 100 and 20.56% of the top 1  million) at a significantly higher rate than the (39 million remaining) websites which contain less structured data (5.64%).
 
 Top Ranked Sites |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
 100     | 99        |  99.00 | 74.75    | 34.34   | 55.56   | 68.69
