@@ -12,7 +12,7 @@ title: The Structured Data Web
 ### Welcome to the Structured Data Web
 The Internet is evolving from a Web of Documents to a Web of Data, powering the next generation of smarter, data-driven web applications and providing much richer integration of data and services for end users of the web.
 
-Today if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its use within data mesh-ups or knowlege graphs - you'll want to publish your content as structured data on the web.  Some more background on why and how follow.
+Today if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use in general - you'll want to publish your content as structured data on the web.  Some more background on why and how follow.
 
 
 
