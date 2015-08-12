@@ -19,11 +19,11 @@ Today it is not enough to publish  unstructured text in web pages.  Web crawlers
 ***
 
 #### The Structured Data Web: What? Why? How?
-* http://googlewebmastercentral.blogspot.com/2013/05/getting-started-with-structured-data.html
-* http://webdesign.tutsplus.com/articles/an-introduction-to-structured-data-markup--webdesign-8577
-* http://searchengineland.com/demystifying-knowledge-graph-201976
-* http://dejanseo.com.au/2012-brings-3-key-improvements-in-googles-algorithm/
-* http://www.newyorker.com/culture/culture-desk/the-web-gets-smarter
+* [gettins started with structured data](http://googlewebmastercentral.blogspot.com/2013/05/getting-started-with-structured-data.html)
+* [intro to structured data markup](http://webdesign.tutsplus.com/articles/an-introduction-to-structured-data-markup--webdesign-8577)
+* [demystifying knowledge graphs](http://searchengineland.com/demystifying-knowledge-graph-201976)
+* [key improvements in googles search algorithm](http://dejanseo.com.au/2012-brings-3-key-improvements-in-googles-algorithm/)
+* [New Yorker: The Web Gets Smarter](http://www.newyorker.com/culture/culture-desk/the-web-gets-smarter)
 
 
 ***
