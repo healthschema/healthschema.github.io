@@ -10,9 +10,9 @@ title: The Structured Data Web
 
 
 ### Welcome to the Structured Data Web
-The Internet is evolving from a Web of Documents to a Web of Data, driving the next generation of smarter, data-driven web applications and providing richer integration of data and services for and by end users of the web. Web crawlers, search engines, and web agents are fully capable of understanding structured data within web pages, and adding much value to this throough machine processing and linking. Therefore, if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use - you'll want to publish your content as structured data on the web.
+The Internet is evolving from a Web of Documents to a Web of Data, driving the next generation of smarter, data-driven web applications and providing richer integration of data and services for and by end users of the web. Web crawlers, search engines, and web agents all seek and understand the structured data within web pages, and therefore can add much value to this  through automated computation and linking.If you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use - you'll want to publish your content as structured data on the web.
 
-End users of the web now expect computable data on the sites they visit, and expect intelligent processing of this. An analysis of 40 million primary level domains (PLDs) containing 3 billion HTML web pages shows a significant correlation of website ranking (number of visitors)  with the percentage of structure data it contains:
+End users of the web now expect structured data within the websites they visit, and expect intelligent automated processing of this. An analysis of 40 million primary level domains (PLDs) containing 3 billion HTML web pages shows a significant correlation of website ranking (number of visitors)  with the percentage of structure data it contains:
 
 Top Ranked Sites |  PLDs in CC | # % AL |  % containing structured data | overall RDFa |  Microdata | Microformats
 100     | 99        |  99.00 | 74.75    | 34.34   | 55.56   | 68.69
