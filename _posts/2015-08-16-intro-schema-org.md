@@ -3,13 +3,11 @@ layout: post
 title: Schema.org Intro
 ---
 
-
-Dan Brickley (Google): What is Schema.org?
+YoutTube: Dan Brickley (Google): What is Schema.org?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6mhdjE1XE" frameborder="0" allowfullscreen></iframe>
 
 ***
-Dan Brickley (Google):
-http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
+SlideShare:Dan Brickley (Google): [What is left to do for Dublin Core?  Intro to Schema.org](http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote)
 
 ***
 Linked Data:
