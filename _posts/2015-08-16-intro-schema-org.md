@@ -4,7 +4,18 @@ title: Schema.org Intro
 ---
 
 
-[![Intro to Schema.orgE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/_-6mhdjE1XE)
+Intro to Schema.org
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-6mhdjE1XE" frameborder="0" allowfullscreen></iframe>
+
+***
+
+Linked Data:
+* What is Linked Data?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allowfullscreen></iframe>
+
+***
+
+http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
 
 BBC Semantic Web Series:
 * Marco Neumann: SemWeb Meetup:  https://youtu.be/8yUvgp-bZ5Q
@@ -18,15 +29,7 @@ JSON-LD:
 * What is JSON-LD?  https://youtu.be/vioCbTo3C-4
 * JSON-LD: Compaction and Expansion  https://youtu.be/Tm3fD89dqRE
 * JSON-LD: Core Markup  https://youtu.be/UmvWk_TQ30A
-
-Linked Data:
-* What is Linked Data? https://youtu.be/4x_xzT5eF5Q
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allowfullscreen></iframe>
-
-
-http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
-
+* 
 
 ## Footnotes
 Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-footnote_1] will lead you to a footnote. 
