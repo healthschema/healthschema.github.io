@@ -29,13 +29,10 @@ JSON-LD:
 * Manu Sporny:[What is JSON-LD?](https://youtu.be/vioCbTo3C-4)
 * Manu Sporny:[JSON-LD: Compaction and Expansion](https://youtu.be/Tm3fD89dqRE)
 * Manu Sporny:[JSON-LD: Core Markup](https://youtu.be/UmvWk_TQ30A)
-* Markus Lanthaler: [How to Build Linked Data APIs with JSON LD](https://youtu.be/fJCtaNRxg9M)
+* Markus Lanthaler:[How to Build Linked Data APIs with JSON LD](https://youtu.be/fJCtaNRxg9M)
 
-
-## Footnotes
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-footnote_1] will lead you to a footnote. 
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
+***
+Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-footnote_1] will lead you to a footnote.  You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
 
 [^fn-footnote_1]: Handy! Now click the return link to go back.
 
