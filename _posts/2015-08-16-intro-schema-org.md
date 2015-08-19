@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schema.org Intro
+title: What is Schema.org?
 ---
 
 #### Intro to Schema.org  -  Dan Brickley, Google
