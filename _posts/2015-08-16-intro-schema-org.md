@@ -6,8 +6,18 @@ title: Schema.org Intro
 
 [![Intro to Schema.orgE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/_-6mhdjE1XE)
 
-Intro to Schema.org:  https://youtu.be/_-6mhdjE1XE
 
+BBC Semantic Web Series:
+1. Marco Neumann: SemWeb Meetup:  https://youtu.be/8yUvgp-bZ5Q
+2. Jon Voss, Historypin: https://youtu.be/3D2vh7cLpFM
+3. Adrian Stevenson, MIMAS: https://youtu.be/R6VwJLNTUyM
+4. Evan Sandhaus, New York Times:  https://youtu.be/Xo10ShDK_F8
+5. __Dan Brickley, schema.org__ https://youtu.be/_-6mhdjE1XE
+6. Silver Oliver and Yves Raimond, BBC: https://youtu.be/sCnpSsxsb5U
+
+
+
+http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
 
 
 ## Footnotes
