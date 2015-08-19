@@ -6,8 +6,7 @@ title: Intro to Linked Data
 #### Linked Open Data: Why is it important?
 [![Linked Open Data - What is it?](https://i.ytimg.com/vi/uju4wT9uBIA/hqdefault.jpg)](https://www.youtube.com/embed/uju4wT9uBIA "Linked Open Data - What is it?")
 
----
-####Linked Data: How does it work?
+#### Linked Data: How does it work?
 [![What is Linked Data?](https://i.ytimg.com/vi/4x_xzT5eF5Q/hqdefault.jpg)](https://www.youtube.com/embed/4x_xzT5eF5Q "What is Linked Data?")
 
 ***
