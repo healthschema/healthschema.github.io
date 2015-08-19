@@ -22,6 +22,8 @@ JSON-LD:
 Linked Data:
 * What is Linked Data? https://youtu.be/4x_xzT5eF5Q
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allowfullscreen></iframe>
+
 
 http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
 
