@@ -1,1 +1,5 @@
-https://pibby.com/jekyll-youtube-plugin/
+
+Youtube Plugins:
+* https://pibby.com/jekyll-youtube-plugin/
+* https://github.com/pibby/jekyll-youtube
+* 
