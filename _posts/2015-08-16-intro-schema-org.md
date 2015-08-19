@@ -4,13 +4,13 @@ title: Schema.org Intro
 ---
 
 
-Intro to Schema.org  (iframe video and slides):
-
+Intro to Schema.org
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6mhdjE1XE" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote" frameborder="0" allowfullscreen></iframe>
+***
 
+http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
 
 
 ***
