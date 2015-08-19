@@ -9,7 +9,6 @@ title: Intro to Linked Data
 #### Linked Data: How does it work?
 [![What is Linked Data?](https://i.ytimg.com/vi/4x_xzT5eF5Q/hqdefault.jpg)](https://www.youtube.com/embed/4x_xzT5eF5Q "What is Linked Data?")
 
-***
 #### Linked Data: Links
 * https://en.wikipedia.org/wiki/Linked_data
 * http://www.w3.org/standards/semanticweb/data
