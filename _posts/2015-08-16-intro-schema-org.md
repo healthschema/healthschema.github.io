@@ -4,34 +4,31 @@ title: Schema.org Intro
 ---
 
 
-Intro to Schema.org
+Dan Brickley (Google): What is Schema.org?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6mhdjE1XE" frameborder="0" allowfullscreen></iframe>
 
-
 ***
-
+Dan Brickley (Google):
 http://www.slideshare.net/danbri/what-is-left-to-do-dublin-core-2012-keynote
-
 
 ***
 Linked Data:
-* What is Linked Data?
+* Manu Sporny: What is Linked Data?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4x_xzT5eF5Q" frameborder="0" allowfullscreen></iframe>
 
 ***
 BBC Semantic Web Series:
-* Marco Neumann: SemWeb Meetup:  https://youtu.be/8yUvgp-bZ5Q
-* Jon Voss, Historypin: https://youtu.be/3D2vh7cLpFM
-* Adrian Stevenson, MIMAS: https://youtu.be/R6VwJLNTUyM
-* Evan Sandhaus, New York Times:  https://youtu.be/Xo10ShDK_F8
-* __Dan Brickley, schema.org__ https://youtu.be/_-6mhdjE1XE
-*  Silver Oliver and Yves Raimond, BBC: https://youtu.be/sCnpSsxsb5U
+* Marco Neumann [SemWeb Meetup](https://youtu.be/8yUvgp-bZ5Q)
+* Jon Voss [Historypin](https://youtu.be/3D2vh7cLpFM)
+* Adrian Stevenson [MIMAS](https://youtu.be/R6VwJLNTUyM)
+* Evan Sandhaus [New York Times](https://youtu.be/Xo10ShDK_F8)
+* Dan Brickley, [__schema.org__](https://youtu.be/_-6mhdjE1XE)
+* Silver Oliver and Yves Raimond [BBC](https://youtu.be/sCnpSsxsb5U)
 
 JSON-LD:
-* What is JSON-LD?  https://youtu.be/vioCbTo3C-4
-* JSON-LD: Compaction and Expansion  https://youtu.be/Tm3fD89dqRE
-* JSON-LD: Core Markup  https://youtu.be/UmvWk_TQ30A
-* 
+* [What is JSON-LD?](https://youtu.be/vioCbTo3C-4)
+* [JSON-LD: Compaction and Expansion](https://youtu.be/Tm3fD89dqRE)
+* [JSON-LD: Core Markup](https://youtu.be/UmvWk_TQ30A)
 
 
 
