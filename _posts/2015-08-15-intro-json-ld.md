@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JSON-LD Intro
+title: What is JSON-LD?
 ---
 
 [![What is JSON-LD?](https://i.ytimg.com/vi/vioCbTo3C-4/hqdefault.jpg)](https://www.youtube.com/embed/vioCbTo3C-4 "What is JSON-LD?")
