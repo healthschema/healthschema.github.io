@@ -4,6 +4,17 @@ title: Schema.org Intro
 ---
 
 
+***
+Embed Markdown
+[![What is JSON-LD?](https://i.ytimg.com/vi/vioCbTo3C-4/hqdefault.jpg)](https://www.youtube.com/embed/vioCbTo3C-4 "What is JSON-LD?")
+
+***
+Embed YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vioCbTo3C-4" frameborder="0" allowfullscreen></iframe>
+
+
+***
+
 * Dan Brickley (Google lead): [YouTube: What is Schema.org?](https://www.youtube.com/embed/_-6mhdjE1XE)
 * Wikipedia: [Schema.org](https://en.wikipedia.org/wiki/Schema.org)
 * [Schema.org website](https://schema.org/)
