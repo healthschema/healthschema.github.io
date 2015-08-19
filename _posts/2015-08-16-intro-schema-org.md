@@ -3,6 +3,9 @@ layout: post
 title: Schema.org Intro
 ---
 
+
+{% youtube prFohBWIdQg %} 
+
 * Dan Brickley (Google lead): [YouTube: What is Schema.org?](https://www.youtube.com/embed/_-6mhdjE1XE)
 * Wikipedia: [Schema.org](https://en.wikipedia.org/wiki/Schema.org)
 * [Schema.org website](https://schema.org/)
