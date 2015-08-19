@@ -4,7 +4,8 @@ title: Schema.org Intro
 ---
 
 
-Intro to Schema.org
+Intro to Schema.org  (iframe video and slides):
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-6mhdjE1XE" frameborder="0" allowfullscreen></iframe>
 
 
