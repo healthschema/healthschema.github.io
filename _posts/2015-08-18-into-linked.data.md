@@ -15,11 +15,10 @@ title: Intro to Linked Data
 * http://www.w3.org/standards/semanticweb/data
 * http://json-ld.org/
 
-BBC Semantic Web Series:
+#### BBC Semantic Web Series:
 * Marco Neumann:[SemWeb Meetup](https://youtu.be/8yUvgp-bZ5Q)
 * Jon Voss:[Historypin](https://youtu.be/3D2vh7cLpFM)
 * Adrian Stevenson:[MIMAS](https://youtu.be/R6VwJLNTUyM)
 * Evan Sandhaus [New York Times](https://youtu.be/Xo10ShDK_F8)
 * Dan Brickley:[__schema.org__](https://youtu.be/_-6mhdjE1XE)
 * Silver Oliver and Yves Raimond:[BBC](https://youtu.be/sCnpSsxsb5U)
-* 
