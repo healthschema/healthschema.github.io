@@ -4,13 +4,6 @@ title: Example content
 ---
 
 
-[![Intro to Schema.orgE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/_-6mhdjE1XE)
-
-Intro to Schema.org
-https://youtu.be/_-6mhdjE1XE
-
-
-
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
