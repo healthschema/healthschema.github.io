@@ -4,15 +4,6 @@ title: Schema.org Intro
 ---
 
 
-Intro to JSONLD Youtube: 
----
-{% youtube /v8o-Vd__I-A 560 315 %}
-
----
-{% youtube http://youtu.be/v8o-Vd__I-A %}
-
----
-
 * Dan Brickley (Google lead): [YouTube: What is Schema.org?](https://www.youtube.com/embed/_-6mhdjE1XE)
 * Wikipedia: [Schema.org](https://en.wikipedia.org/wiki/Schema.org)
 * [Schema.org website](https://schema.org/)
