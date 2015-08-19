@@ -5,13 +5,7 @@ title: Schema.org Intro
 
 
 ***
-Embed Markdown
-[![What is JSON-LD?](https://i.ytimg.com/vi/vioCbTo3C-4/hqdefault.jpg)](https://www.youtube.com/embed/vioCbTo3C-4 "What is JSON-LD?")
-
-***
-Embed YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vioCbTo3C-4" frameborder="0" allowfullscreen></iframe>
-
+[![Schema.org - What, How, Why?](https://i.ytimg.com/vi/hcahQfN5u9Y/hqdefault.jpg)](https://www.youtube.com/embed/hcahQfN5u9Y "Schema.org - What, How, Why?")
 
 ***
 
