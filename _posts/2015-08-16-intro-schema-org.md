@@ -5,9 +5,11 @@ title: Schema.org Intro
 
 
 Intro to JSONLD Youtube: 
-{% youtube /vioCbTo3C-4 560 315 %}
+---
+{% youtube /v8o-Vd__I-A 560 315 %}
 
-
+---
+{% youtube http://youtu.be/v8o-Vd__I-A %}
 
 ---
 
