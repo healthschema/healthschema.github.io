@@ -6,9 +6,13 @@ This is the HealthSchema.org project repository. It contains all the healthcare 
 Formats and standards
 =====================
 All schemas and examples are in data/ in utf-8 encoded files.
+
 The main schemas file is data/schema.rdfa (utf-8)
+
 While developing schemas, using data/sdo-somethinghere-schema.rdfa can be useful.
+
 The format is based on W3C RDFS in HTML/RDFa format, see http://schema.org/docs/datamodel.html
+
 The examples are stored in data/examples.txt (utf-8) and other *.txt files.
 
 As with schemas, data/*examples.txt will also be read. It can be useful to develop
