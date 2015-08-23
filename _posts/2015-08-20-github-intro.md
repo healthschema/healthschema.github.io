@@ -48,9 +48,11 @@ Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
 Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
 
 
-What is Github
+What is Github[^fn-what-exactly-is-github]
 ================
 Reference: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
+
+[^fn-what-exactly-is-github]: (http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway) Handy! Now click the return link to go back.
 
 What is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.
 
@@ -80,9 +82,7 @@ The money may be in private and on-premise hosting, but the love is in the publi
 Footnotes
 =============
 
-Text[^fn-what-exactly-is-github]
-
-[^fn-what-exactly-is-github]: Handy! Now click the return link to go back.
+[^fn-what-exactly-is-github]: (http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway) Handy! Now click the return link to go back.
 
 <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
 <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
