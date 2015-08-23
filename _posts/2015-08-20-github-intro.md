@@ -82,12 +82,9 @@ Footnotes
 
 Text[^fn-what-exactly-is-github]
 
-{% highlight text %}
 [^fn-what-exactly-is-github]: Handy! Now click the return link to go back.
-{% endhighlight %}
 
-
-  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
-  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
+<img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
+<img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
 
 
