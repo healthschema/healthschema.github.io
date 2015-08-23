@@ -13,7 +13,7 @@ GitHub is a Web-based code repository and distributed revision control and sourc
 
 A unique feature of  Github is its advanced  distributed revision control, which works whether coders are online or offline, and automates the merging of all sources of code. This allows large distributed teams to work asynchronously in different time zones on large enterprise-critical software with close to no administrative overhead. For example, over five thousand coders around the world concurrently develop one of the largest and mission critical systems today, the Linux operating system, which runs over 50% of all internet servers, runs most corporate servers, and is the operating system of over a billion mobile handsets. Because of these robust collaboration features, Github is sometimes called the "Facebook of Coders". 
 
-Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Twitter, PayPal, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
+Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
 
 As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World. 
 
@@ -44,13 +44,12 @@ Facebook |  [https://github.com/facebook](https://github.com/facebook)
 LinkedIn | [https://github.com/linkedin](https://github.com/linkedin)
 Yahoo | [https://github.com/yahoo](https://github.com/yahoo)
 Linux | [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
-Adobe | repo
-Twitter | repo
-PayPal | repo
-Amazon | repo
-Dropbox | repo
-Mozilla | repo
-
+Adobe | [https://github.com/adobe](https://github.com/adobe)
+Twitter | [https://github.com/twitter](https://github.com/twitter)
+PayPal | [https://github.com/paypal](https://github.com/paypal)
+Amazon | [https://github.com/aws/](https://github.com/aws/)
+Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
+Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
 
 
 
