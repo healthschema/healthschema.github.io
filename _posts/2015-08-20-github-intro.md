@@ -10,7 +10,6 @@ title: Intro to Github
 
 ***
 
-
 Intro to Github
 * https://en.wikipedia.org/wiki/GitHub
 * http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
