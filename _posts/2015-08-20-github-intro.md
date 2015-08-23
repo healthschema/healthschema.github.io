@@ -50,7 +50,7 @@ Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
 Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
 
 
-What is Github[^fn-what-exactly-is-github]
+Genesis of Github[^fn-what-exactly-is-github]
 ================
 
 [^fn-what-exactly-is-github]: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
