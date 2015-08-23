@@ -21,16 +21,12 @@ A unique feature of  Github is its advanced  distributed revision control, which
 
 Intro to Github
 =================
-[Wikipedia:Github](https://en.wikipedia.org/wiki/GitHub)
-
-[What Exactly is Github?](http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
-
-[How Big Tech Uses Github](http://jmduke.com/posts/how-big-tech-uses-github/)
-
-[Github has conqured Google, Microsoft, Facebook, Yahoo, and everyone else](http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else)
-
-[Top projects on Github](http://www.fastcompany.com/3015178/the-top-10-hottest-github-projects-right-now)
-[Explore other repositories](https://github.com/explore)
+* [Wikipedia: Github](https://en.wikipedia.org/wiki/GitHub)
+* [What Exactly is Github?](http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
+* [How Big Tech Uses Github](http://jmduke.com/posts/how-big-tech-uses-github/)
+* [Github has conqured Google, Microsoft, Facebook, Yahoo, and everyone else](http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else)
+* [Top projects on Github](http://www.fastcompany.com/3015178/the-top-10-hottest-github-projects-right-now)
+* [Explore other repositories](https://github.com/explore)
 
 
 Companies Using Github
