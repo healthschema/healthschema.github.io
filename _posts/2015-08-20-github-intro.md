@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Revolution in Social Coding
+title: Github:The Facebook of Coders
 ---
 
 <p align="center">
