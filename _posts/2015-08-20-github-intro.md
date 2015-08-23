@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github:The Facebook of Coders
+title: Social Coding: The New Standard
 ---
 
 <p align="center">
