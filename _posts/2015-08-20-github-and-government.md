@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="
-  https://camo.githubusercontent.com/d429f0b99f52ce571da34401b68c27dcbd53c9bd/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f313330383934322f64386632306438302d333164362d313165332d393939642d6533326436643963353334622e706e67" 
+http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg
+"
   width="300px" height="250px" />
 </p>
 
