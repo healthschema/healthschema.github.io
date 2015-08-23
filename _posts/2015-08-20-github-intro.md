@@ -1,3 +1,16 @@
+---
+layout: post
+title: Intro to Github
+---
+
+<p align="center">
+  <img src="http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg"/>
+</p>
+
+
+***
+
+
 Intro to Github
 * https://en.wikipedia.org/wiki/GitHub
 * http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
