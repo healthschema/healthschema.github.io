@@ -66,6 +66,22 @@ Handy! Now click the return link to go back.
 {% endhighlight %}
 
 
+Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
+
+{% highlight text %}
+Clicking this number[^fn-sample_footnote]
+{% endhighlight %}
+
+Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
+
+{% highlight text %}
+[^fn-sample_footnote]: Handy! Now click the return link to go back.
+{% endhighlight %}
+
+You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
+
+
+
 Reference: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
 
 What the heck is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.
