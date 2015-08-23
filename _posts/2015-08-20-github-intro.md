@@ -2,10 +2,7 @@
 layout: post
 title: Intro to Github
 ---
-
-<p align="center">
   <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"/>
-</p>
 
 <p align="center">
   <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png"/>
