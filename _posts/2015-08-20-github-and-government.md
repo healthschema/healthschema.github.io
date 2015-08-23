@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" 
+  <img src="http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg" 
   width="300px" height="250px" />
 </p>
 
-
-<p align="center">
-  <img src="
-http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg
-  width="300px" height="250px" />
-</p>
 
 
 
