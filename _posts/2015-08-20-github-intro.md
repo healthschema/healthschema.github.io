@@ -38,8 +38,8 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 
 Company | Repository
 ---- | ----
-Google |   https://github.com/google
-Microsoft |  https://github.com/Microsoft
+Google |   (https://github.com/google)
+Microsoft | (https://github.com/Microsoft)
 Facebook |  https://github.com/facebook
 LinkedIn | https://github.com/linkedin
 Yahoo | https://github.com/yahoo
