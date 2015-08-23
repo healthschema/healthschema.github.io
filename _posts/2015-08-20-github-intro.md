@@ -18,7 +18,7 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 ### Why Github is *the* Social Coding Hub
 A unique feature of  Github is its advanced distributed revision control, which works whether coders are online or offline, and automates the merging of all sources of code continuously. This allows very large distributed teams to work asynchronously in different time zones on one or many large enterprise-critical codebase with minimal administrative overhead, ane with no conflicts when all distributed instances of thier code (called forks) are merged.
 
-For example, over 5000 coders around the world concurrently develop the Linux operating system, and have submitted over 500,000 changes and patches (called commits), which have been continuously integrated and merged to a single authoritative source reflecting all contributions at all times. Without Github, the scale of collaboration and agility of development would be simply impossible.  Because of such robust collaboration features, Github is sometimes called the "Facebook of Coders". 
+For example, over 5000 coders around the world concurrently develop the Linux operating system, and have submitted over 500,000 changes and patches (called commits) to Github, which continuously integrated and merged these to a single authoritative source reflecting all contributions at all times. Without Github, this scale of collaboration and agility of development would be simply impossible.  Because of such robust collaboration features, Github is sometimes called the "Facebook of Coders". 
 
 
 Intro to Github
