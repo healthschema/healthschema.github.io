@@ -3,14 +3,10 @@ layout: post
 title: Intro to Social Coding
 ---
 
-<p align="center">
-  <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png"
-    width="250px" height="200px" />
-</p>
+  <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png" width="250px" height="200px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg" width="250px" height="200px" />
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg"
-    width="250px" height="200px" />
 </p>
 
 
