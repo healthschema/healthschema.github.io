@@ -35,6 +35,8 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 **Explore other repositories here:**
 * https://github.com/explore
 
+Companies Using Github
+================
 
 Company | Repository
 ---- | ----
@@ -50,10 +52,6 @@ PayPal | [https://github.com/paypal](https://github.com/paypal)
 Amazon | [https://github.com/aws/](https://github.com/aws/)
 Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
 Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
-
-
-  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
-  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
 
 
 What is Github
@@ -81,3 +79,12 @@ Besides its public facing open source repositories, GitHub also sells private re
 Atlassian acquired a competitor called BitBucket in 2010. And earlier this year Atlassian launched Stash, a product that enables you to host private, on-premise Git repositories with BitBucket/GitHub-style collaboration features. The company also sells developer collaboration tools like the bug tracker Jira and the wiki Confluence. Competition from Atlassian, which took $60 million in funding from Accel Partners in 2010, could help explain why GitHub took this round of funding, and hint at some possible future directions for the company. For example, Schlueter says GitHub’s issue tracking feature could eventually compete with JIRA for some projects.
 
 The money may be in private and on-premise hosting, but the love is in the public repositories. Perhaps most importantly, GitHub has become the Library of Alexandria for code examples. Since Git encourages granular recording of changes, programmers, be they absolute beginners or experts, can trace the steps of some of the greatest developers in the world and find out how they solved thorny problems. But if GitHub were ever to meet the same fate as the Library of Alexandria, it could be reconstructed from all those local forks distributed on so many developers laptops all over the world. Regardless of how this investment works out, that’s a hell of a legacy for the GitHub team to leave behind.
+
+
+Footnotes
+=============
+
+  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
+  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
+
+
