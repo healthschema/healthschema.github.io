@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg" 
-  width="500px" height="350px" />
+  <img src="http://a4.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_0.75,q_80,w_620/MTIyMjk0MzcwNTA1MzU0NTIx.jpg"/>
 </p>
 
 
