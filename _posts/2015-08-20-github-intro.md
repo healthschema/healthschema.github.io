@@ -42,6 +42,8 @@ GitHub is a Web-based Git repository hosting service, which offers all of the di
 As of 2015, GitHub reports having over 9 million users and over 21.1 million repositories,[6] making it the largest host of source code in the World.[7]
 
 
-  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"/>
-  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"/>
+
+  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
+  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
+
   
