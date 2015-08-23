@@ -3,7 +3,7 @@
 </p>
 
 
-
+***
 Github and Government:
 * https://government.github.com/
 * https://government.github.com/assets/img/govandgithub.pdf
@@ -19,6 +19,7 @@ U.S. Digital  Services Github
 VA  Github
 * https://github.com/department-of-veterans-affairs
 
+***
 Other  Federal Gov stories on Github:
 * http://fcw.com/articles/2014/07/07/github-swiss-army-knife.aspx
 * http://fedscoop.com/is-github-governments-next-big-thing/
