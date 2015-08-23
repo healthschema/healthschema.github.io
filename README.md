@@ -1,4 +1,4 @@
-Welcome to Heathschema.org
+Welcome
 =====================
 This is the HealthSchema.org repository, which contains healthcare schemas for collaborative development and improvement. 
 
