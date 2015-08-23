@@ -20,7 +20,8 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 A unique feature of  Github is its advanced  distributed revision control, which works whether coders are online or offline, and automates the merging of all sources of code. This allows large distributed teams to work asynchronously in different time zones on large enterprise-critical software with close to no administrative overhead. For example, over five thousand coders around the world concurrently develop one of the largest and mission critical systems today, the Linux operating system, which runs over 50% of all internet servers, runs most corporate servers, and is the operating system of over a billion mobile handsets. Because of these robust collaboration features, Github is sometimes called the "Facebook of Coders". 
 
 
-###  Intro to Github
+Intro to Github
+=================
 * https://en.wikipedia.org/wiki/GitHub
 * http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 
