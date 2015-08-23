@@ -4,23 +4,25 @@
 
 
 ***
-Github and Government:
+
+**Github and Government**
 * https://government.github.com/
 * https://government.github.com/assets/img/govandgithub.pdf
 
-List of Goverment Githubs (thousands)
+
+**List of Goverment Githubs (thousands)**
 * https://government.github.com/community/
 * https://github.com/blog/1874-government-opens-up-10k-active-government-users-on-github
 
-U.S. Digital  Services Github
+**U.S. Digital  Services Github**
 * https://18f.gsa.gov/
 * https://github.com/18F
 
-VA  Github
+**VA  Github**
 * https://github.com/department-of-veterans-affairs
 
 ***
-Other  Federal Gov stories on Github:
+**Other  Federal Gov stories on Github**
 * http://fcw.com/articles/2014/07/07/github-swiss-army-knife.aspx
 * http://fedscoop.com/is-github-governments-next-big-thing/
 * http://www.cio.com/article/2390953/government-use-of-it/us-gov-t-agencies-embrace-collaborative-software-development.html
