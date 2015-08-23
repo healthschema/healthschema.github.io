@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to Social Coding
+title: Github: The Social Coding Hub
 ---
 
 <p align="center">
