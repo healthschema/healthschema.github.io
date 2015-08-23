@@ -8,6 +8,13 @@ title: Intro to Social Coding
     width="300px" height="250px" />
 </p>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/GitHub.svg"
+    width="300px" height="250px" />
+</p>
+
+
+
 ***
 
 Intro to Github
