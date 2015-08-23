@@ -23,15 +23,12 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 * http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 
 ### Articles on Github
-**All the biggest tech companies do all their development on Github:**
-
+**How Big Tech Uses Github:**
 * http://jmduke.com/posts/how-big-tech-uses-github/
 
 **Github has conqured Google, Microsoft, Facebook, Yahoo, and everyone else:**
-
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else
 
-### Companies Using Github
 Company | Repository
 ---- | ----
 Google |   https://github.com/google
@@ -39,14 +36,13 @@ Microsoft |  https://github.com/Microsoft
 Facebook |  https://github.com/facebook
 LinkedIn | https://github.com/linkedin
 Yahoo | https://github.com/yahoo
+Linux | https://github.com/torvalds/linux
 
 
 **Top projects on Github:**
-
 * http://www.fastcompany.com/3015178/the-top-10-hottest-github-projects-right-now
 
 **Explore other repositories here:**
-
 * https://github.com/explore
 
 
