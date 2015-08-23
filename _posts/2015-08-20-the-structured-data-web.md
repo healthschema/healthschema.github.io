@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Structured Data Web
+---
+
 <p align="center">
   <img src="http://www.newyorker.com/wp-content/uploads/2012/05/Google-knowledge-graph.jpg" 
   width="300px" height="250px" />
