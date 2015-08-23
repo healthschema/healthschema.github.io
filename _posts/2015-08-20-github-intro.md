@@ -48,31 +48,8 @@ Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
 Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
 
 
-What is Github[^fn-what-exactly-is-github]
+What is Github
 ================
-
-{% highlight text %}
-[^fn-what-exactly-is-github]: Handy! Now click the return link to go back.
-{% endhighlight %}
-
-
-http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
-
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
-
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
-
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
-
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
-
 Reference: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
 
 What the heck is GitHub and why are developers so excited about it? You may have heard that GitHub is a code sharing and publishing service, or that it’s a social networking site for programmers. Both statements are true, but neither explain exactly why GitHub is special.
@@ -102,6 +79,13 @@ The money may be in private and on-premise hosting, but the love is in the publi
 
 Footnotes
 =============
+
+Text[^fn-what-exactly-is-github]
+
+{% highlight text %}
+[^fn-what-exactly-is-github]: Handy! Now click the return link to go back.
+{% endhighlight %}
+
 
   <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"  width="300px" height="250px" />
   <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"   width="300px" height="250px" />
