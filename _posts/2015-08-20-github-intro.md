@@ -13,7 +13,7 @@ GitHub is a Web-based code repository hosting service, providing distributed rev
 
 Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Twitter, PayPal, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
 
-A unique feature of  Github is its advanced  distributed revision control system, which works whether coders are online or offline, and automates the merging of all sources of code. This allows very large distributed coding teams with no administrative overhead, and enables collaborative coding for very large enterprise-critical software with large teams. For example, over 5000 coders around the world work asynchronously on the most enterprise-critical code that runs 50% of all servers worldwide, the Linux operating system. As the social coding platform of choice, it is sometimes called the "Facebook of Coders". 
+A unique feature of  Github is its advanced  distributed revision control system, which works whether coders are online or offline, and automates the merging of all sources of code. This allows large distributed teams to work asynchronously on large enterprise-critical software with close to zero administrative overhead. For example, over 5000 coders around the world work asynchronously on the most enterprise-critical code that runs 50% of all servers worldwide, the Linux operating system. As the social coding platform of choice, it is sometimes called the "Facebook of Coders". 
 
 As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World. 
 
