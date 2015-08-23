@@ -18,4 +18,4 @@ Top Ranked Sites |  PLDs in CC | # % AL |  % containing structured data | overal
 1m      |  734,882  |  73.49 |  20.56   |  7.55   | 3.04    | 14.18
 
 
-The bottom line is if you want your content to be discoverable, indexable, computable, reusable, or inter-linkable on the web - and to maximize its secondary use - you'll want to publish your content as structured data on the web.
+The bottom line is if you want your content to be discoverable, indexable, computable, reusable, searchable, or inter-linkable on the web - and to maximize its secondary use - you'll want to create and publish your content as structured data on the web.
