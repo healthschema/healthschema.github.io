@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Coding: The New Standard
+title: Social Coding - The New Standard
 ---
 
 <p align="center">
