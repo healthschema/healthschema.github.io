@@ -8,9 +8,9 @@ title: The Revolution in Social Coding
   <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png" width="150px" height="100px" />
 </p>
 
-GitHub is a Web-based code repository and distributed revision control and source code management system, and provides collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+GitHub is a Web-based code repository, source control, and distributed revision control system, and provides collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 
-Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
+Github is the industry-leading software development and collaboration platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
 
 As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World. 
 
