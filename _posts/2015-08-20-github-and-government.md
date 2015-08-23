@@ -4,9 +4,6 @@
 
 
 
-
-
-
 Github and Government:
 * https://government.github.com/
 * https://government.github.com/assets/img/govandgithub.pdf
