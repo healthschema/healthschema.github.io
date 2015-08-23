@@ -4,9 +4,9 @@ title: Intro to Social Coding
 ---
 
 <p align="center">
-  <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png"/>
+  <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png"
+    width="300px" height="250px" />
 </p>
-
 
 ***
 
