@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Intro to Github
+title: Intro to Social Coding
 ---
 
 <p align="center">
   <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png"/>
 </p>
-
-
-  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"/>
-  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"/>
-
 
 
 ***
@@ -45,3 +40,8 @@ Explore other repositories here:
 GitHub is a Web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  Unlike Git, which is strictly a command-line tool, GitHub provides a Web-based graphical interface and desktop as well as mobile integration. It also providesaccess control and several collaboration features such as bug tracking, feature requests, task management, and wikisfor every project.[3] GitHub offers both plans for private repositories and free accounts,[4] which are usually used to host open-sourcesoftware projects.[5] 
 
 As of 2015, GitHub reports having over 9 million users and over 21.1 million repositories,[6] making it the largest host of source code in the World.[7]
+
+
+  <img src="https://m2.behance.net/rendition/pm/4610553/disp/a93254740c4cdc7101c08a6ed5475f53.jpg"/>
+  <img src="http://saptherapist.com/wp-content/uploads/2013/01/photodune-3652755-symbol-of-social-network-xs.jpg"/>
+  
