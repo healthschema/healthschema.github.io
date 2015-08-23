@@ -8,7 +8,6 @@ title: The Revolution in Social Coding
   <img src="http://www.itsourcetek.com/wp-content/uploads/2013/05/drive3.png" width="150px" height="100px" />
 </p>
 
-
 GitHub is a Web-based code repository and distributed revision control and source code management system, and provides collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 
 Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
@@ -26,17 +25,13 @@ Intro to Github
 * http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
 
 ### Articles on Github
-**How Big Tech Uses Github:**
-* http://jmduke.com/posts/how-big-tech-uses-github/
+[How Big Tech Uses Github](http://jmduke.com/posts/how-big-tech-uses-github/)
 
-**Github has conqured Google, Microsoft, Facebook, Yahoo, and everyone else:**
-* http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else
+[Github has conqured Google, Microsoft, Facebook, Yahoo, and everyone else](http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else)
 
-**Top projects on Github:**
-* http://www.fastcompany.com/3015178/the-top-10-hottest-github-projects-right-now
+[Top projects on Github](http://www.fastcompany.com/3015178/the-top-10-hottest-github-projects-right-now)
+[Explore other repositories](https://github.com/explore)
 
-**Explore other repositories here:**
-* https://github.com/explore
 
 Companies Using Github
 ================
@@ -57,14 +52,15 @@ Dropbox | [https://github.com/dropbox](https://github.com/dropbox)
 Mozilla | [https://github.com/mozilla](https://github.com/mozilla)
 
 
-What is Github[^fn-what-exactly-is-github-anyway]
+What is Github[^fn-what-exactly-is-github]
 ================
 
 {% highlight text %}
-[^fn-what-exactly-is-github-anyway]:http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
-Handy! Now click the return link to go back.
+[^fn-what-exactly-is-github]: Handy! Now click the return link to go back.
 {% endhighlight %}
 
+
+http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
 
 Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
 
@@ -79,7 +75,6 @@ Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the f
 {% endhighlight %}
 
 You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
 
 
 Reference: http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway
