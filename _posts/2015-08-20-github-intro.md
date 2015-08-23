@@ -44,8 +44,12 @@ Facebook |  [https://github.com/facebook](https://github.com/facebook)
 LinkedIn | [https://github.com/linkedin](https://github.com/linkedin)
 Yahoo | [https://github.com/yahoo](https://github.com/yahoo)
 Linux | [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
-
-
+Adobe | repo
+Twitter | repo
+PayPal | repo
+Amazon | repo
+Dropbox | repo
+Mozilla | repo
 
 
 
