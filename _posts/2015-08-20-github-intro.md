@@ -9,9 +9,9 @@ title: The Revolution in Social Coding
 </p>
 
 
-GitHub is a Web-based code repository hosting service, and provides all of the distributed revision control and source code management functionality. This includes access control and collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+GitHub is a Web-based code repository hosting service, and provides all of the distributed revision control and source code management functionality, including access control and collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 
-**Github is the collaborative code management platform of the world's largest software companies (including Google, Microsoft, Adobe, Twitter, PayPal, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, Mozilla). As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World.**
+**As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World. Github is the industry-standard software development and management platform used by the world's largest  software development companies including Google, Microsoft, Adobe, Twitter, PayPal, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.**
 
 
 ***
