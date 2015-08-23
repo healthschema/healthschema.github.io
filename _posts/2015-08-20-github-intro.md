@@ -13,7 +13,7 @@ GitHub is a Web-based code repository hosting service, providing distributed rev
 
 Github is the industry-leading software development and management platform, supporting the world's largest  software development companies including Google, Microsoft, Adobe, Twitter, PayPal, Amazon, Yahoo, LinkedIn, Facebook, Dropbox, and Mozilla.
 
-Because Github is free and available to all coders worldwide, and enables collaborative coding for large distrubuted teams (as many as 5000 coders around the world working on one set of code, such as the Linux operating system) it is also known as the social coding platform of choice, or the "Facebook of coders". 
+Because Github is free and available to all coders worldwide, and enables collaborative coding for large distrubuted teams (as many as 5000 coders around the world working on one set of large, enterprise-critical code, such as the Linux operating system) it is also known as the social coding platform of choice, or the "Facebook of coders". 
 
 As of 2015, GitHub reports over 9 million users and over 21.1 million repositories, making it the largest host of source code in the World. 
 
