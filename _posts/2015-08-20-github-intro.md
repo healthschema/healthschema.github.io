@@ -31,6 +31,7 @@ As of 2015, GitHub reports over 9 million users and over 21.1 million repositori
 
 * http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else
 
+### Companies Using Github
 Company | Repository
 ---- | ----
 Google |   https://github.com/google
