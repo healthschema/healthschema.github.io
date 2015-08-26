@@ -12,7 +12,7 @@ title: Github and Government
 
 **Github and Government**
 * [Github](https://government.github.com/)
-* [Government Github](https://government.github.com/assets/img/govandgithub.pdf)
+* [Government Github(PDF)](https://government.github.com/assets/img/govandgithub.pdf)
 
 
 **List of Goverment Githubs (thousands)**
